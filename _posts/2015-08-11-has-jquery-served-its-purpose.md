@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Has Jquery Served Its Purpose
+title:  Has jQuery Served Its Purpose
 date:   2015-08-11
 permalink: has-jquery-served-its-purpose
 categories:
