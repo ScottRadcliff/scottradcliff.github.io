@@ -37,7 +37,7 @@ task :import do
   permalink = title.downcase.gsub(' ', '-').gsub(/['"]/, "")
   date_created = row[3].split(' ')[0]
   filename = date_created + "-" + permalink
-  File.open("./_posts#{filename}", "w") do |file|
+  File.open("./_posts/#{filename}", "w") do |file|
     file.write "hello"
   end
 end
