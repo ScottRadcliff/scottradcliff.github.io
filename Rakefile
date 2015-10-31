@@ -38,7 +38,17 @@ task :import do
   date_created = row[3].split(' ')[0]
   filename = date_created + "-" + permalink
   File.open("./_posts/#{filename}", "w") do |file|
-    file.write "hello"
+  <<-CONTENT
+  ---
+  layout: post
+  title:  #{title}
+  date:   #{date_created}
+  permalink: #{permalink}
+  categories:
+  ---
+
+  #{body}
+  CONTENT
   end
 end
   # for each line
