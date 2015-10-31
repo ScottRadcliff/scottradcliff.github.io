@@ -32,32 +32,25 @@ desc 'Import all blog posts for a db export csv file'
 task :import do
   require 'csv'
   CSV.foreach("tmp/export.csv", :row_sep => "\n") do |row|
-  title = row[1]
-  body = row[2]
-  permalink = title.downcase.gsub(' ', '-').gsub(/['"]/, "")
-  date_created = row[3].split(' ')[0]
-  filename = date_created + "-" + permalink
-  File.open("./_posts/#{filename}", "w") do |file|
-  <<-CONTENT
-  ---
-  layout: post
-  title:  #{title}
-  date:   #{date_created}
-  permalink: #{permalink}
-  categories:
-  ---
+    title = row[1]
+    body = row[2]
+    permalink = title.downcase.gsub(' ', '-').gsub(/['"]/, "")
+    date_created = row[3].split(' ')[0]
+    filename = date_created + "-" + permalink
+    File.open("./_posts/#{filename}.md", "w") do |file|
+    post_content = <<-CONTENT
+---
+layout: post
+title:  #{title}
+date:   #{date_created}
+permalink: #{permalink}
+categories:
+---
 
-  #{body}
+#{body}
   CONTENT
-  end
-end
-  # for each line
-  # title = extract the title
-  # permalink = format a permalink in hyphens
-  # body = extract the body
-  # create_date = extract the create date
-  # create a new file in _posts with the following format
-  #   2015-10-31-{permalink}.md
-  # open the file and insert front matter, followed by the body
 
+    file.write post_content
+    end
+  end
 end
