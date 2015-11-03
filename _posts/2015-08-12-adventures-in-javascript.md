@@ -1,8 +1,7 @@
 ---
 layout: post
-title:   Adventures In JavaScript
+title:  Adventures In JavaScript
 date:   2015-08-12
-permalink: -adventures-in-javascript
 categories:
 ---
 

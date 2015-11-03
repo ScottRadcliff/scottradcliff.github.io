@@ -13,3 +13,4 @@ github_username:  scottradcliff
 
 # Build settings
 markdown: kramdown
+permalink: /:title
