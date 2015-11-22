@@ -2,7 +2,6 @@
 layout: post
 title:  Saving The Web
 date:   2015-07-17
-permalink: saving-the-web
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Working With Git Stash
 date:   2015-05-19
-permalink: working-with-git-stash
 categories:
 ---
 
@@ -51,4 +50,3 @@ And `git stash list` should show something like this.
 		stash@{0}: On dev: Another emergency needs my attention
 
 This has been a huge help for those situations where I need to jump to another branch when I’m in the middle of something. Hopefully, it will help you too.
-

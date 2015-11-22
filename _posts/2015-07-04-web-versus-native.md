@@ -2,7 +2,6 @@
 layout: post
 title:  Web Versus Native
 date:   2015-07-04
-permalink: web-versus-native
 categories:
 ---
 
@@ -25,5 +24,3 @@ If an effort to side step making a truly delightful web experience on the web. A
 How do fix this?
 
 Let’s call it [SRP](http://en.wikipedia.org/wiki/Single_responsibility_principle). Use the web for the web and use native for native. Understand that native apps are generally faster. They are closer to the metal. Web apps will always have a browser between the user and the computer.
-
-

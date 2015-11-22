@@ -14,3 +14,4 @@ github_username:  scottradcliff
 # Build settings
 markdown: kramdown
 permalink: /:title
+excerpt_separator: <!--more-->

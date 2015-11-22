@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  Has jQuery Served Its Purpose
+title:  Has jQuery Served It's Purpose
 date:   2015-08-11
-permalink: has-jquery-served-its-purpose
 categories:
 ---
 
@@ -11,7 +10,7 @@ I used to be a jQuery hater. I’m sure that stuff is on the Internet somewhere.
 I started to convert. I started to see how this tool could actually help me. But it was a pretty long road. One that I fought pretty hard. But in the end. jQuery won me over.
 
 Those days were a little different. Writing the same code for different browsers was very common. There was a lot you had to remember. Lots of little quirks and bugs in browsers. I’m not so sure that’s the case anymore. Browsers have gotten pretty standard.
-
+<!--more-->
 ## jQuery as a Crutch
 
 jQuery is a crutch now. It’s such a default in a web developer’s tool belt that they don’t ask if they need it. Until they start to ask if they need it.

@@ -54,3 +54,21 @@ categories:
     end
   end
 end
+
+desc 'Remove permalink from all posts'
+
+task :antipermalink do
+  files = Dir.entries("_posts")
+  files.each do |file|
+    if !file.start_with?(".")
+      file_to_read = File.new("_posts/" + file)
+      # remove the line
+      file_to_read.each do |line|
+        if line.respond_to?(:starts_with?) && line.starts_with?("permalink")
+          line = ''
+        end
+      end
+      return
+    end
+  end
+end
