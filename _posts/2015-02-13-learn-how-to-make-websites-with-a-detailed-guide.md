@@ -2,7 +2,6 @@
 layout: post
 title:  Learn How To Make Websites With A Detailed Guide
 date:   2015-02-13
-permalink: learn-how-to-make-websites-with-a-detailed-guide
 categories:
 ---
 

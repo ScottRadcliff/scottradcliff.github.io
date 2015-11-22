@@ -2,7 +2,6 @@
 layout: post
 title:  Too Stupid To Know Better
 date:   2014-02-17
-permalink: too-stupid-to-know-better
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Small Business Vs Startups
 date:   2013-05-20
-permalink: small-business-vs-startups
 categories:
 ---
 

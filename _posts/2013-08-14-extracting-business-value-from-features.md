@@ -2,7 +2,6 @@
 layout: post
 title:  Extracting Business Value From Features
 date:   2013-08-14
-permalink: extracting-business-value-from-features
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  A Better Blackboard
 date:   2011-11-06
-permalink: a-better-blackboard
 categories:
 ---
 

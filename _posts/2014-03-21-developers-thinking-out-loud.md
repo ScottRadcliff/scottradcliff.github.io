@@ -2,7 +2,6 @@
 layout: post
 title:  Developers Thinking Out Loud
 date:   2014-03-21
-permalink: developers-thinking-out-loud
 categories:
 ---
 

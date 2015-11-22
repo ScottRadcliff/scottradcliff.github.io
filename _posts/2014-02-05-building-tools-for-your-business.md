@@ -2,7 +2,6 @@
 layout: post
 title:  Building Tools For Your Business
 date:   2014-02-05
-permalink: building-tools-for-your-business
 categories:
 ---
 

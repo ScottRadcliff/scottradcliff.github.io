@@ -2,7 +2,6 @@
 layout: post
 title:  You Only Get One Life
 date:   2015-03-30
-permalink: you-only-get-one-life
 categories:
 ---
 

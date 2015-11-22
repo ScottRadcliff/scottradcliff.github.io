@@ -2,7 +2,6 @@
 layout: post
 title:  Changing Culture Where You Work
 date:   2012-11-28
-permalink: changing-culture-where-you-work
 categories:
 ---
 

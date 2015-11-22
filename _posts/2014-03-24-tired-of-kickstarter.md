@@ -2,7 +2,6 @@
 layout: post
 title:  Tired Of Kickstarter
 date:   2014-03-24
-permalink: tired-of-kickstarter
 categories:
 ---
 

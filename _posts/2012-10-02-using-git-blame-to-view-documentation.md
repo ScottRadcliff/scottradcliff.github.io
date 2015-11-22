@@ -2,7 +2,6 @@
 layout: post
 title:  Using Git Blame To View Documentation
 date:   2012-10-02
-permalink: using-git-blame-to-view-documentation
 categories:
 ---
 

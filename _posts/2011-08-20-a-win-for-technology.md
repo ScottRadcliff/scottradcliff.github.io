@@ -2,7 +2,6 @@
 layout: post
 title:  A Win For Technology
 date:   2011-08-20
-permalink: a-win-for-technology
 categories:
 ---
 

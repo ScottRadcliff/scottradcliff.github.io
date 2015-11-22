@@ -2,7 +2,6 @@
 layout: post
 title:  Subscribing To The Feed
 date:   2014-03-17
-permalink: subscribing-to-the-feed
 categories:
 ---
 

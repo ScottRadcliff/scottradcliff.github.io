@@ -2,7 +2,6 @@
 layout: post
 title:  Comments Are Documentation
 date:   2012-11-30
-permalink: comments-are-documentation
 categories:
 ---
 

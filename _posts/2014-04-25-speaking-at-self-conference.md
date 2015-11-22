@@ -2,7 +2,6 @@
 layout: post
 title:  Speaking At Self Conference
 date:   2014-04-25
-permalink: speaking-at-self-conference
 categories:
 ---
 

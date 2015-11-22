@@ -2,7 +2,6 @@
 layout: post
 title:  Best Education Sites
 date:   2011-12-22
-permalink: best-education-sites
 categories:
 ---
 

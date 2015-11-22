@@ -2,7 +2,6 @@
 layout: post
 title:  Test Files Should Be Small Too
 date:   2013-01-14
-permalink: test-files-should-be-small-too
 categories:
 ---
 

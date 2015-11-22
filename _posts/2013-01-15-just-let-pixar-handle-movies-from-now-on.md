@@ -2,7 +2,6 @@
 layout: post
 title:  Just Let Pixar Handle Movies From Now On
 date:   2013-01-15
-permalink: just-let-pixar-handle-movies-from-now-on
 categories:
 ---
 

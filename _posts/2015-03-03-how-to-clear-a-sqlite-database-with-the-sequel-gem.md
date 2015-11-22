@@ -2,7 +2,6 @@
 layout: post
 title:  How To Clear A Sqlite Database With The Sequel Gem
 date:   2015-03-03
-permalink: how-to-clear-a-sqlite-database-with-the-sequel-gem
 categories:
 ---
 

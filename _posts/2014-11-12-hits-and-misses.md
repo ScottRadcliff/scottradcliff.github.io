@@ -2,7 +2,6 @@
 layout: post
 title:  Hits And Misses
 date:   2014-11-12
-permalink: hits-and-misses
 categories:
 ---
 

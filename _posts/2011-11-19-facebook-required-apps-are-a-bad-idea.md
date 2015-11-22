@@ -2,7 +2,6 @@
 layout: post
 title:  Facebook Required Apps Are A Bad Idea
 date:   2011-11-19
-permalink: facebook-required-apps-are-a-bad-idea
 categories:
 ---
 

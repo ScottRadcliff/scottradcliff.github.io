@@ -2,7 +2,6 @@
 layout: post
 title:  Creators And Guilt
 date:   2014-09-30
-permalink: creators-and-guilt
 categories:
 ---
 

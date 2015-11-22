@@ -2,7 +2,6 @@
 layout: post
 title:  Spacer Gifs And Cursor Trailers
 date:   2014-02-27
-permalink: spacer-gifs-and-cursor-trailers
 categories:
 ---
 

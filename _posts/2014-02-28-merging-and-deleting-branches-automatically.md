@@ -2,7 +2,6 @@
 layout: post
 title:  Merging And Deleting Branches Automatically
 date:   2014-02-28
-permalink: merging-and-deleting-branches-automatically
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Redcarpet Is Stupid Simple
 date:   2011-11-18
-permalink: redcarpet-is-stupid-simple
 categories:
 ---
 

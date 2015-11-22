@@ -2,7 +2,6 @@
 layout: post
 title:  Sublime Text Keyboard Shortcuts
 date:   2014-02-03
-permalink: sublime-text-keyboard-shortcuts
 categories:
 ---
 

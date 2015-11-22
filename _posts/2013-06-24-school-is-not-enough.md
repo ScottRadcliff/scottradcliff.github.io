@@ -2,7 +2,6 @@
 layout: post
 title:  School Is Not Enough
 date:   2013-06-24
-permalink: school-is-not-enough
 categories:
 ---
 

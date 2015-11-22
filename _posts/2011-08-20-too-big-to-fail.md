@@ -2,7 +2,6 @@
 layout: post
 title:  Too Big To Fail
 date:   2011-08-20
-permalink: too-big-to-fail
 categories:
 ---
 

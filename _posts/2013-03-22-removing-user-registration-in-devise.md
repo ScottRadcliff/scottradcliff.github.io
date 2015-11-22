@@ -2,7 +2,6 @@
 layout: post
 title:  Removing User Registration In Devise
 date:   2013-03-22
-permalink: removing-user-registration-in-devise
 categories:
 ---
 

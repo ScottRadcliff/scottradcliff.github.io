@@ -2,7 +2,6 @@
 layout: post
 title:  Open Source Cancer Research
 date:   2011-11-18
-permalink: open-source-cancer-research
 categories:
 ---
 

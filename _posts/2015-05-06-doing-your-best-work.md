@@ -2,7 +2,6 @@
 layout: post
 title:  Doing Your Best Work
 date:   2015-05-06
-permalink: doing-your-best-work
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  How To Run Sinatra And Compile Sass Files At The Same Time
 date:   2015-05-14
-permalink: how-to-run-sinatra-and-compile-sass-files-at-the-same-time
 categories:
 ---
 

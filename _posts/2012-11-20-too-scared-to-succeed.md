@@ -2,7 +2,6 @@
 layout: post
 title:  Too Scared To Succeed
 date:   2012-11-20
-permalink: too-scared-to-succeed
 categories:
 ---
 

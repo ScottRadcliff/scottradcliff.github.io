@@ -2,7 +2,6 @@
 layout: post
 title:  Promote Dry Java Script Practices
 date:   2011-08-20
-permalink: promote-dry-java-script-practices
 categories:
 ---
 

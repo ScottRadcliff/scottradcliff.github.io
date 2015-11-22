@@ -2,7 +2,6 @@
 layout: post
 title:  College Is A Stepping Stone
 date:   2012-07-07
-permalink: college-is-a-stepping-stone
 categories:
 ---
 

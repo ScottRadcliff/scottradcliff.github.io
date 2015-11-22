@@ -2,7 +2,6 @@
 layout: post
 title:  It Only Takes An Hour
 date:   2012-02-29
-permalink: it-only-takes-an-hour
 categories:
 ---
 

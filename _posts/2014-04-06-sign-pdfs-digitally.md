@@ -2,7 +2,6 @@
 layout: post
 title:  Sign Pdfs Digitally
 date:   2014-04-06
-permalink: sign-pdfs-digitally
 categories:
 ---
 

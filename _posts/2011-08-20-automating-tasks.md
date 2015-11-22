@@ -2,7 +2,6 @@
 layout: post
 title:  Automating Tasks
 date:   2011-08-20
-permalink: automating-tasks
 categories:
 ---
 

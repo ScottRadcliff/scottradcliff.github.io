@@ -2,7 +2,6 @@
 layout: post
 title:  Hybrid Rss
 date:   2013-03-23
-permalink: hybrid-rss
 categories:
 ---
 

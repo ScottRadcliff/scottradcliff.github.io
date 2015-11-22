@@ -2,7 +2,6 @@
 layout: post
 title:  First Conference Talk Completed And Whats Next For Code Schools
 date:   2014-06-03
-permalink: first-conference-talk-completed-and-whats-next-for-code-schools
 categories:
 ---
 

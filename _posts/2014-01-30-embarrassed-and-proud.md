@@ -2,7 +2,6 @@
 layout: post
 title:  Embarrassed And Proud
 date:   2014-01-30
-permalink: embarrassed-and-proud
 categories:
 ---
 

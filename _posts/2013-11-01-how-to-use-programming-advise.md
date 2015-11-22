@@ -2,7 +2,6 @@
 layout: post
 title:  How To Use Programming Advise
 date:   2013-11-01
-permalink: how-to-use-programming-advise
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  If It Is Not Deployed It Does Not Count
 date:   2013-01-08
-permalink: if-it-is-not-deployed-it-does-not-count
 categories:
 ---
 

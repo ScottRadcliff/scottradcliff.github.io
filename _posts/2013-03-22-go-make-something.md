@@ -2,7 +2,6 @@
 layout: post
 title:  Go Make Something
 date:   2013-03-22
-permalink: go-make-something
 categories:
 ---
 

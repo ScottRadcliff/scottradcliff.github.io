@@ -2,7 +2,6 @@
 layout: post
 title:  Staying The Course Is The Hard Part
 date:   2013-01-09
-permalink: staying-the-course-is-the-hard-part
 categories:
 ---
 

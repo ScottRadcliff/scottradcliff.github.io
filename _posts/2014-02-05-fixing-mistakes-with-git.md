@@ -2,7 +2,6 @@
 layout: post
 title:  Fixing Mistakes With Git
 date:   2014-02-05
-permalink: fixing-mistakes-with-git
 categories:
 ---
 

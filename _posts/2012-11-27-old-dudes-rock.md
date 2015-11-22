@@ -2,7 +2,6 @@
 layout: post
 title:  Old Dudes Rock
 date:   2012-11-27
-permalink: old-dudes-rock
 categories:
 ---
 

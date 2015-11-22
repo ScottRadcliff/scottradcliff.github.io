@@ -2,7 +2,6 @@
 layout: post
 title:  Exposing Bugs With Tdd
 date:   2012-04-03
-permalink: exposing-bugs-with-tdd
 categories:
 ---
 

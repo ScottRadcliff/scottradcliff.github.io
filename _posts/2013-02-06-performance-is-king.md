@@ -2,7 +2,6 @@
 layout: post
 title:  Performance Is King
 date:   2013-02-06
-permalink: performance-is-king
 categories:
 ---
 

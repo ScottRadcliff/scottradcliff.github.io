@@ -2,7 +2,6 @@
 layout: post
 title:  Migrate Dev And Test At The Same Time
 date:   2012-11-09
-permalink: migrate-dev-and-test-at-the-same-time
 categories:
 ---
 

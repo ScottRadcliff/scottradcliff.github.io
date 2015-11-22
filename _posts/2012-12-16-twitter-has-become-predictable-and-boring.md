@@ -2,7 +2,6 @@
 layout: post
 title:  Twitter Has Become Predictable And Boring
 date:   2012-12-16
-permalink: twitter-has-become-predictable-and-boring
 categories:
 ---
 

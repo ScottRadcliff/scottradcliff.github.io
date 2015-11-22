@@ -2,7 +2,6 @@
 layout: post
 title:  The Bubble Goes Pop
 date:   2012-03-16
-permalink: the-bubble-goes-pop
 categories:
 ---
 

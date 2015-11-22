@@ -2,7 +2,6 @@
 layout: post
 title:  What Defines A Quality Developer
 date:   2012-11-19
-permalink: what-defines-a-quality-developer
 categories:
 ---
 

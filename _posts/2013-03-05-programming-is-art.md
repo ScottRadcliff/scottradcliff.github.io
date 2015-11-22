@@ -2,7 +2,6 @@
 layout: post
 title:  Programming Is Art
 date:   2013-03-05
-permalink: programming-is-art
 categories:
 ---
 

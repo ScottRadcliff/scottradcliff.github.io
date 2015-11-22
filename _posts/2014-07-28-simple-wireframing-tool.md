@@ -2,7 +2,6 @@
 layout: post
 title:  Simple Wireframing Tool
 date:   2014-07-28
-permalink: simple-wireframing-tool
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  The Problem With Rss Is The Content Creators
 date:   2012-05-01
-permalink: the-problem-with-rss-is-the-content-creators
 categories:
 ---
 

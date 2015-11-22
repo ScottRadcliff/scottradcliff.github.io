@@ -2,7 +2,6 @@
 layout: post
 title:  Display An Attribute In Rails Uppercase And Handle Nil
 date:   2014-02-07
-permalink: display-an-attribute-in-rails-uppercase-and-handle-nil
 categories:
 ---
 

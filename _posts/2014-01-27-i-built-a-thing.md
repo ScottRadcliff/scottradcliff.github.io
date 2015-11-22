@@ -2,7 +2,6 @@
 layout: post
 title:  I Built A Thing
 date:   2014-01-27
-permalink: i-built-a-thing
 categories:
 ---
 

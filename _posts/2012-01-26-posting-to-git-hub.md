@@ -2,7 +2,6 @@
 layout: post
 title:  Posting To Git Hub
 date:   2012-01-26
-permalink: posting-to-git-hub
 categories:
 ---
 

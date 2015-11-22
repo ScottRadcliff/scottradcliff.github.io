@@ -2,7 +2,6 @@
 layout: post
 title:  Show Your Code To Someone
 date:   2011-08-20
-permalink: show-your-code-to-someone
 categories:
 ---
 

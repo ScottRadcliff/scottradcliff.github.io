@@ -2,7 +2,6 @@
 layout: post
 title:  Managed Systems And Software Engineering
 date:   2013-01-04
-permalink: managed-systems-and-software-engineering
 categories:
 ---
 

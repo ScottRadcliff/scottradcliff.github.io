@@ -2,7 +2,6 @@
 layout: post
 title:  Developer Pride
 date:   2011-08-20
-permalink: developer-pride
 categories:
 ---
 

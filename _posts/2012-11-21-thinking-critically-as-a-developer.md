@@ -2,7 +2,6 @@
 layout: post
 title:  Thinking Critically As A Developer
 date:   2012-11-21
-permalink: thinking-critically-as-a-developer
 categories:
 ---
 

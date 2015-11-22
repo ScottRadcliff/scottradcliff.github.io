@@ -2,7 +2,6 @@
 layout: post
 title:  Comments As Context
 date:   2012-08-23
-permalink: comments-as-context
 categories:
 ---
 

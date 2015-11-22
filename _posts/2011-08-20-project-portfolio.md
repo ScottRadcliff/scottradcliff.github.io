@@ -2,7 +2,6 @@
 layout: post
 title:  Project Portfolio
 date:   2011-08-20
-permalink: project-portfolio
 categories:
 ---
 

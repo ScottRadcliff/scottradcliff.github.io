@@ -2,7 +2,6 @@
 layout: post
 title:  I'm Not Your It Guy
 date:   2013-01-16
-permalink: im-not-your-it-guy
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Git Blame A Small Section
 date:   2012-08-21
-permalink: git-blame-a-small-section
 categories:
 ---
 

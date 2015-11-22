@@ -2,7 +2,6 @@
 layout: post
 title:  Solving Problems
 date:   2014-10-14
-permalink: solving-problems
 categories:
 ---
 

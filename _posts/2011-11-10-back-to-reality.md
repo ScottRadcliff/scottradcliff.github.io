@@ -2,7 +2,6 @@
 layout: post
 title:  Back To Reality
 date:   2011-11-10
-permalink: back-to-reality
 categories:
 ---
 

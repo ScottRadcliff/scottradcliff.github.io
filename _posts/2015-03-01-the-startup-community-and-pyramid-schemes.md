@@ -2,7 +2,6 @@
 layout: post
 title:  The Startup Community And Pyramid Schemes
 date:   2015-03-01
-permalink: the-startup-community-and-pyramid-schemes
 categories:
 ---
 

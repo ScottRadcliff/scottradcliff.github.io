@@ -2,7 +2,6 @@
 layout: post
 title:  Changing Habits
 date:   2013-04-15
-permalink: changing-habits
 categories:
 ---
 

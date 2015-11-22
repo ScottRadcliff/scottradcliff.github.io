@@ -2,7 +2,6 @@
 layout: post
 title:  The Case For Isomorphic Javascript
 date:   2015-04-27
-permalink: the-case-for-isomorphic-javascript
 categories:
 ---
 

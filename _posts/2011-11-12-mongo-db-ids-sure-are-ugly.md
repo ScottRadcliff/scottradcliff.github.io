@@ -2,7 +2,6 @@
 layout: post
 title:  Mongo Db Ids Sure Are Ugly
 date:   2011-11-12
-permalink: mongo-db-ids-sure-are-ugly
 categories:
 ---
 

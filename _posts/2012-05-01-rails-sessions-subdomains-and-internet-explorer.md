@@ -2,7 +2,6 @@
 layout: post
 title:  Rails Sessions Subdomains And Internet Explorer
 date:   2012-05-01
-permalink: rails-sessions-subdomains-and-internet-explorer
 categories:
 ---
 

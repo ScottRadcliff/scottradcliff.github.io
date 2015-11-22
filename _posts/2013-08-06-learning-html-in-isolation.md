@@ -2,7 +2,6 @@
 layout: post
 title:  Learning Html In Isolation
 date:   2013-08-06
-permalink: learning-html-in-isolation
 categories:
 ---
 

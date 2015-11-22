@@ -2,7 +2,6 @@
 layout: post
 title:  Query Parameters In Rails
 date:   2014-02-24
-permalink: query-parameters-in-rails
 categories:
 ---
 

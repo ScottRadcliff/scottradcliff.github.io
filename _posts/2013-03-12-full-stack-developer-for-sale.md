@@ -2,7 +2,6 @@
 layout: post
 title:  Full Stack Developer For Sale
 date:   2013-03-12
-permalink: full-stack-developer-for-sale
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  The Most Thorough Linux Tips I Have Ever Seen
 date:   2012-05-31
-permalink: the-most-thorough-linux-tips-i-have-ever-seen
 categories:
 ---
 

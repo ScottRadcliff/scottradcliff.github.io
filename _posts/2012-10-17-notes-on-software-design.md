@@ -2,7 +2,6 @@
 layout: post
 title:  Notes On Software Design
 date:   2012-10-17
-permalink: notes-on-software-design
 categories:
 ---
 

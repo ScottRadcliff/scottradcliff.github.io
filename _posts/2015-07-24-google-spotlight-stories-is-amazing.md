@@ -2,7 +2,6 @@
 layout: post
 title:  Google Spotlight Stories Is Amazing
 date:   2015-07-24
-permalink: google-spotlight-stories-is-amazing
 categories:
 ---
 

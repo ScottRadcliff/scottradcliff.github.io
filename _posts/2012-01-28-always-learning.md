@@ -2,7 +2,6 @@
 layout: post
 title:  Always Learning
 date:   2012-01-28
-permalink: always-learning
 categories:
 ---
 

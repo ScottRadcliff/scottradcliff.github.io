@@ -2,7 +2,6 @@
 layout: post
 title:  Nginx Load Balancing
 date:   2014-07-29
-permalink: nginx-load-balancing
 categories:
 ---
 

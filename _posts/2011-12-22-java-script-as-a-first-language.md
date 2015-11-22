@@ -2,7 +2,6 @@
 layout: post
 title:  Java Script As A First Language
 date:   2011-12-22
-permalink: java-script-as-a-first-language
 categories:
 ---
 

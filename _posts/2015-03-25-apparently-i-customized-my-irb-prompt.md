@@ -2,7 +2,6 @@
 layout: post
 title:  Apparently I Customized My Irb Prompt
 date:   2015-03-25
-permalink: apparently-i-customized-my-irb-prompt
 categories:
 ---
 

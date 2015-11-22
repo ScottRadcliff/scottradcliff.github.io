@@ -2,7 +2,6 @@
 layout: post
 title:  This Feels Too Much Like Work
 date:   2013-01-03
-permalink: this-feels-too-much-like-work
 categories:
 ---
 

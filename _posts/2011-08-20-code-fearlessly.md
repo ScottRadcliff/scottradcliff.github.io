@@ -2,7 +2,6 @@
 layout: post
 title:  Code Fearlessly
 date:   2011-08-20
-permalink: code-fearlessly
 categories:
 ---
 

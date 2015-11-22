@@ -2,7 +2,6 @@
 layout: post
 title:  Living Documentation
 date:   2014-07-15
-permalink: living-documentation
 categories:
 ---
 

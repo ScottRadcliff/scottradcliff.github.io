@@ -2,7 +2,6 @@
 layout: post
 title:  Towards Zero Unemployment
 date:   2013-03-27
-permalink: towards-zero-unemployment
 categories:
 ---
 

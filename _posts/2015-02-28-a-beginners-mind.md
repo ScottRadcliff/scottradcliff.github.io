@@ -2,7 +2,6 @@
 layout: post
 title:  A Beginners Mind
 date:   2015-02-28
-permalink: a-beginners-mind
 categories:
 ---
 

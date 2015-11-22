@@ -2,7 +2,6 @@
 layout: post
 title:  Slow Down And Think
 date:   2014-03-10
-permalink: slow-down-and-think
 categories:
 ---
 

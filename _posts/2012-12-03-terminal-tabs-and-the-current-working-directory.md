@@ -2,7 +2,6 @@
 layout: post
 title:  Terminal Tabs And The Current Working Directory
 date:   2012-12-03
-permalink: terminal-tabs-and-the-current-working-directory
 categories:
 ---
 

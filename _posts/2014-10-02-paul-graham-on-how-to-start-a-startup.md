@@ -2,7 +2,6 @@
 layout: post
 title:  Paul Graham On How To Start A Startup
 date:   2014-10-02
-permalink: paul-graham-on-how-to-start-a-startup
 categories:
 ---
 

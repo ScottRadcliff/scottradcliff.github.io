@@ -2,7 +2,6 @@
 layout: post
 title:  Auto Repair Businesses Are Clueless
 date:   2015-02-18
-permalink: auto-repair-businesses-are-clueless
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Life Is Good
 date:   2012-03-17
-permalink: life-is-good
 categories:
 ---
 

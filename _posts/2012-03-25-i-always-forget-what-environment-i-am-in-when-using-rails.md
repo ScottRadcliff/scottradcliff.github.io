@@ -2,7 +2,6 @@
 layout: post
 title:  I Always Forget What Environment I Am In When Using Rails
 date:   2012-03-25
-permalink: i-always-forget-what-environment-i-am-in-when-using-rails
 categories:
 ---
 

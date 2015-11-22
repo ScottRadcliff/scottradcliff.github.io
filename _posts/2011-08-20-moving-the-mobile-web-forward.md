@@ -2,7 +2,6 @@
 layout: post
 title:  Moving The Mobile Web Forward
 date:   2011-08-20
-permalink: moving-the-mobile-web-forward
 categories:
 ---
 

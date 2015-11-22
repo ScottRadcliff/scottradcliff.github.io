@@ -2,7 +2,6 @@
 layout: post
 title:  Questioning Best Practices
 date:   2014-07-24
-permalink: questioning-best-practices
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Google Reader Apocalypse
 date:   2013-06-25
-permalink: google-reader-apocalypse
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Apple Wins At Marketing
 date:   2012-10-29
-permalink: apple-wins-at-marketing
 categories:
 ---
 

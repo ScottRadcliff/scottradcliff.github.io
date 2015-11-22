@@ -2,7 +2,6 @@
 layout: post
 title:  Build Things You Can Show
 date:   2014-02-07
-permalink: build-things-you-can-show
 categories:
 ---
 

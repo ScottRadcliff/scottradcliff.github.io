@@ -2,7 +2,6 @@
 layout: post
 title:  Contributing To Open Source
 date:   2012-12-03
-permalink: contributing-to-open-source
 categories:
 ---
 

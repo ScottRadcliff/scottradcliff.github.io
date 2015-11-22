@@ -2,7 +2,6 @@
 layout: post
 title:  How To Get Started With Css
 date:   2015-02-03
-permalink: how-to-get-started-with-css
 categories:
 ---
 

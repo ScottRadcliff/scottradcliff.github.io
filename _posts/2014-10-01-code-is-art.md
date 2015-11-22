@@ -2,7 +2,6 @@
 layout: post
 title:  Code Is Art
 date:   2014-10-01
-permalink: code-is-art
 categories:
 ---
 

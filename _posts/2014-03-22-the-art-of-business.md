@@ -2,7 +2,6 @@
 layout: post
 title:  The Art Of Business
 date:   2014-03-22
-permalink: the-art-of-business
 categories:
 ---
 

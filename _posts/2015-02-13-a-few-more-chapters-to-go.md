@@ -2,7 +2,6 @@
 layout: post
 title:  A Few More Chapters To Go
 date:   2015-02-13
-permalink: a-few-more-chapters-to-go
 categories:
 ---
 

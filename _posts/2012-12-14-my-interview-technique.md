@@ -2,7 +2,6 @@
 layout: post
 title:  My Interview Technique
 date:   2012-12-14
-permalink: my-interview-technique
 categories:
 ---
 

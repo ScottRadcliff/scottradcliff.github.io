@@ -2,7 +2,6 @@
 layout: post
 title:  Never Too Old
 date:   2013-09-18
-permalink: never-too-old
 categories:
 ---
 

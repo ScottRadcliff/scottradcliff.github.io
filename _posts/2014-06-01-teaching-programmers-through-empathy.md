@@ -2,7 +2,6 @@
 layout: post
 title:  Teaching Programmers Through Empathy
 date:   2014-06-01
-permalink: teaching-programmers-through-empathy
 categories:
 ---
 

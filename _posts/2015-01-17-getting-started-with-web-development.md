@@ -2,7 +2,6 @@
 layout: post
 title:  Getting Started With Web Development
 date:   2015-01-17
-permalink: getting-started-with-web-development
 categories:
 ---
 

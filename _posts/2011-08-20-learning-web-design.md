@@ -2,7 +2,6 @@
 layout: post
 title:  Learning Web Design
 date:   2011-08-20
-permalink: learning-web-design
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Recording Myself
 date:   2014-02-11
-permalink: recording-myself
 categories:
 ---
 

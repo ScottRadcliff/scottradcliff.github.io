@@ -2,7 +2,6 @@
 layout: post
 title:  Great Sites Inspire You To Do Something
 date:   2011-12-19
-permalink: great-sites-inspire-you-to-do-something
 categories:
 ---
 

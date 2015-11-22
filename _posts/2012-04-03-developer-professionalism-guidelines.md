@@ -2,7 +2,6 @@
 layout: post
 title:  Developer Professionalism Guidelines
 date:   2012-04-03
-permalink: developer-professionalism-guidelines
 categories:
 ---
 

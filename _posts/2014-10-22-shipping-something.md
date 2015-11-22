@@ -2,7 +2,6 @@
 layout: post
 title:  Shipping Something
 date:   2014-10-22
-permalink: shipping-something
 categories:
 ---
 

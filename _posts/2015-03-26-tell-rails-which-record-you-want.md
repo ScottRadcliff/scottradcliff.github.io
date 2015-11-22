@@ -2,7 +2,6 @@
 layout: post
 title:  Tell Rails Which Record You Want
 date:   2015-03-26
-permalink: tell-rails-which-record-you-want
 categories:
 ---
 

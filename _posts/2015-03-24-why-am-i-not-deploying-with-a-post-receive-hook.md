@@ -2,7 +2,6 @@
 layout: post
 title:  Why Am I Not Deploying With A Post Receive Hook
 date:   2015-03-24
-permalink: why-am-i-not-deploying-with-a-post-receive-hook
 categories:
 ---
 

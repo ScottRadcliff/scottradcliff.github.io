@@ -2,7 +2,6 @@
 layout: post
 title:  I Want To Start Teaching Again
 date:   2014-12-01
-permalink: i-want-to-start-teaching-again
 categories:
 ---
 

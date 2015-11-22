@@ -2,7 +2,6 @@
 layout: post
 title:  Rails Engines And Migrations
 date:   2013-05-25
-permalink: rails-engines-and-migrations
 categories:
 ---
 

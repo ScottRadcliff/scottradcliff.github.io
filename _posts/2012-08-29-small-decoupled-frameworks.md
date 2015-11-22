@@ -2,7 +2,6 @@
 layout: post
 title:  Small Decoupled Frameworks
 date:   2012-08-29
-permalink: small-decoupled-frameworks
 categories:
 ---
 

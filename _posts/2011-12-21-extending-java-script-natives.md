@@ -2,7 +2,6 @@
 layout: post
 title:  Extending Java Script Natives
 date:   2011-12-21
-permalink: extending-java-script-natives
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Quit Crying And Build Something
 date:   2012-04-17
-permalink: quit-crying-and-build-something
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Build All The Things
 date:   2013-06-21
-permalink: build-all-the-things
 categories:
 ---
 

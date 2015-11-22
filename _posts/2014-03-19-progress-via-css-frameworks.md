@@ -2,7 +2,6 @@
 layout: post
 title:  Progress Via Css Frameworks
 date:   2014-03-19
-permalink: progress-via-css-frameworks
 categories:
 ---
 

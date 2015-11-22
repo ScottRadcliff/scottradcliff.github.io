@@ -2,7 +2,6 @@
 layout: post
 title:  Start Writing To Think
 date:   2015-01-07
-permalink: start-writing-to-think
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Readme Driven Development Revisited
 date:   2014-07-10
-permalink: readme-driven-development-revisited
 categories:
 ---
 

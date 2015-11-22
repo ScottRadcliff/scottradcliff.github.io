@@ -2,7 +2,6 @@
 layout: post
 title:  Can I Delete My Rails Migrations
 date:   2013-10-31
-permalink: can-i-delete-my-rails-migrations
 categories:
 ---
 

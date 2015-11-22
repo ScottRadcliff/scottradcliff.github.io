@@ -2,7 +2,6 @@
 layout: post
 title:  Microsoft To Add Open Source To Mvp Program
 date:   2014-03-21
-permalink: microsoft-to-add-open-source-to-mvp-program
 categories:
 ---
 

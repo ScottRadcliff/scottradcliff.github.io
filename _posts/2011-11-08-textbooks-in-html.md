@@ -2,7 +2,6 @@
 layout: post
 title:  Textbooks In Html
 date:   2011-11-08
-permalink: textbooks-in-html
 categories:
 ---
 

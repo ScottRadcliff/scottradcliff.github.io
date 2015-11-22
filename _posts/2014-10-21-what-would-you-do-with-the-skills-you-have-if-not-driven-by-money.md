@@ -2,7 +2,6 @@
 layout: post
 title:  What Would You Do With The Skills You Have If Not Driven By Money
 date:   2014-10-21
-permalink: what-would-you-do-with-the-skills-you-have-if-not-driven-by-money
 categories:
 ---
 

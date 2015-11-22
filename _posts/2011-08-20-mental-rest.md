@@ -2,7 +2,6 @@
 layout: post
 title:  Mental Rest
 date:   2011-08-20
-permalink: mental-rest
 categories:
 ---
 

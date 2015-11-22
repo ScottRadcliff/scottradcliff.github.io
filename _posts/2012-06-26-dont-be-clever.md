@@ -2,7 +2,6 @@
 layout: post
 title:  Dont Be Clever
 date:   2012-06-26
-permalink: dont-be-clever
 categories:
 ---
 

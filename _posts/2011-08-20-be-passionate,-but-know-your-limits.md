@@ -2,7 +2,6 @@
 layout: post
 title:  Be Passionate, But Know Your Limits
 date:   2011-08-20
-permalink: be-passionate,-but-know-your-limits
 categories:
 ---
 

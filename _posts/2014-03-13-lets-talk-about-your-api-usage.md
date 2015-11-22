@@ -2,7 +2,6 @@
 layout: post
 title:  Lets Talk About Your Api Usage
 date:   2014-03-13
-permalink: lets-talk-about-your-api-usage
 categories:
 ---
 

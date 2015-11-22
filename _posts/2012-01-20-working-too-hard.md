@@ -2,7 +2,6 @@
 layout: post
 title:  Working Too Hard
 date:   2012-01-20
-permalink: working-too-hard
 categories:
 ---
 

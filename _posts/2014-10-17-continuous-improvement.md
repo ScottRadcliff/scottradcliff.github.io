@@ -2,7 +2,6 @@
 layout: post
 title:  Continuous Improvement
 date:   2014-10-17
-permalink: continuous-improvement
 categories:
 ---
 

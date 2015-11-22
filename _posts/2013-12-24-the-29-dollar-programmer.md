@@ -2,7 +2,6 @@
 layout: post
 title:  The 29 Dollar Programmer
 date:   2013-12-24
-permalink: the-29-dollar-programmer
 categories:
 ---
 

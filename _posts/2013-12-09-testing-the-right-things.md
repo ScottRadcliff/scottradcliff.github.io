@@ -2,7 +2,6 @@
 layout: post
 title:  Testing The Right Things
 date:   2013-12-09
-permalink: testing-the-right-things
 categories:
 ---
 

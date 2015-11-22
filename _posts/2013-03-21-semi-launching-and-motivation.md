@@ -2,7 +2,6 @@
 layout: post
 title:  Semi Launching And Motivation
 date:   2013-03-21
-permalink: semi-launching-and-motivation
 categories:
 ---
 

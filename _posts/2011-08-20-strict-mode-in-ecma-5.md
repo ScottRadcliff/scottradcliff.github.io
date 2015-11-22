@@ -2,7 +2,6 @@
 layout: post
 title:  Strict Mode In Ecma 5
 date:   2011-08-20
-permalink: strict-mode-in-ecma-5
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Exploring A Code Base With Integration Testing
 date:   2012-04-05
-permalink: exploring-a-code-base-with-integration-testing
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Seven Day Startup
 date:   2014-10-02
-permalink: seven-day-startup
 categories:
 ---
 

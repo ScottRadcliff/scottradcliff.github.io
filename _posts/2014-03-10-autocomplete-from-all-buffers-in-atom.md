@@ -2,7 +2,6 @@
 layout: post
 title:  Autocomplete From All Buffers In Atom
 date:   2014-03-10
-permalink: autocomplete-from-all-buffers-in-atom
 categories:
 ---
 

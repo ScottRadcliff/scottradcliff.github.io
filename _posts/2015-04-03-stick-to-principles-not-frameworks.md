@@ -2,7 +2,6 @@
 layout: post
 title:  Stick To Principles Not Frameworks
 date:   2015-04-03
-permalink: stick-to-principles-not-frameworks
 categories:
 ---
 

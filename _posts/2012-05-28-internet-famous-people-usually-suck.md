@@ -2,7 +2,6 @@
 layout: post
 title:  Internet Famous People Usually Suck
 date:   2012-05-28
-permalink: internet-famous-people-usually-suck
 categories:
 ---
 

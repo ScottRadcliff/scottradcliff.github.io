@@ -2,7 +2,6 @@
 layout: post
 title:  Dont Deploy On A Friday
 date:   2014-04-07
-permalink: dont-deploy-on-a-friday
 categories:
 ---
 

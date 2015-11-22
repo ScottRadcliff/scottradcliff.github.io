@@ -2,7 +2,6 @@
 layout: post
 title:  Final Four Saturday
 date:   2015-04-04
-permalink: final-four-saturday
 categories:
 ---
 

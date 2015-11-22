@@ -2,7 +2,6 @@
 layout: post
 title:  Developer Goals For 2011
 date:   2011-08-20
-permalink: developer-goals-for-2011
 categories:
 ---
 

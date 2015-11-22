@@ -2,7 +2,6 @@
 layout: post
 title:  How To Know What Controller Ember Wants You To Use
 date:   2015-03-05
-permalink: how-to-know-what-controller-ember-wants-you-to-use
 categories:
 ---
 

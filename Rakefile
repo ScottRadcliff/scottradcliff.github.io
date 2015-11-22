@@ -62,13 +62,10 @@ task :antipermalink do
   files.each do |file|
     if !file.start_with?(".")
       file_to_read = File.new("_posts/" + file)
-      # remove the line
+      tmp_file = File.new("temp_posts/" + file, "w+")
       file_to_read.each do |line|
-        if line.respond_to?(:starts_with?) && line.starts_with?("permalink")
-          line = ''
-        end
+        tmp_file.write(line) unless line.start_with?("permalink")
       end
-      return
     end
   end
 end

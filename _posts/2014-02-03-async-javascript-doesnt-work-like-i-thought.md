@@ -2,7 +2,6 @@
 layout: post
 title:  Async Javascript Doesnt Work Like I Thought
 date:   2014-02-03
-permalink: async-javascript-doesnt-work-like-i-thought
 categories:
 ---
 

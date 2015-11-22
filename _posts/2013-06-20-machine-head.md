@@ -2,7 +2,6 @@
 layout: post
 title:  Machine Head
 date:   2013-06-20
-permalink: machine-head
 categories:
 ---
 

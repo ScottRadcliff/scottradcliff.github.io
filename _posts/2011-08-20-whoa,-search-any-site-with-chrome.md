@@ -2,7 +2,6 @@
 layout: post
 title:  Whoa, Search Any Site With Chrome
 date:   2011-08-20
-permalink: whoa,-search-any-site-with-chrome
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  Autotesting With Guard
 date:   2012-11-09
-permalink: autotesting-with-guard
 categories:
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  It Looks So Easy
 date:   2014-07-30
-permalink: it-looks-so-easy
 categories:
 ---
 

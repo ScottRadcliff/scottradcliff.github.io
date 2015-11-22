@@ -2,7 +2,6 @@
 layout: post
 title:  Better Test Cases
 date:   2011-11-10
-permalink: better-test-cases
 categories:
 ---
 

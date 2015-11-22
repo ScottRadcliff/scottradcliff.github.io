@@ -2,7 +2,6 @@
 layout: post
 title:  Rails Rescue Projects
 date:   2013-04-16
-permalink: rails-rescue-projects
 categories:
 ---
 

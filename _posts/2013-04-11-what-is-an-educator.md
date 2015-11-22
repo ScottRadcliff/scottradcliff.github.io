@@ -2,7 +2,6 @@
 layout: post
 title:  What Is An Educator
 date:   2013-04-11
-permalink: what-is-an-educator
 categories:
 ---
 

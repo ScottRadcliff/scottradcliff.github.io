@@ -2,7 +2,6 @@
 layout: post
 title:  You Probably Suck At Writing Maintainable Software
 date:   2014-01-07
-permalink: you-probably-suck-at-writing-maintainable-software
 categories:
 ---
 

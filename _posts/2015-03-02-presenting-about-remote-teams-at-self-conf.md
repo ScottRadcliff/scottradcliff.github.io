@@ -2,7 +2,6 @@
 layout: post
 title:  Presenting About Remote Teams At Self Conf
 date:   2015-03-02
-permalink: presenting-about-remote-teams-at-self-conf
 categories:
 ---
 

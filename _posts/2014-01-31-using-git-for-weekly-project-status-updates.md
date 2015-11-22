@@ -2,7 +2,6 @@
 layout: post
 title:  Using Git For Weekly Project Status Updates
 date:   2014-01-31
-permalink: using-git-for-weekly-project-status-updates
 categories:
 ---
 

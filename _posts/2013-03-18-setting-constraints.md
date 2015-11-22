@@ -2,7 +2,6 @@
 layout: post
 title:  Setting Constraints
 date:   2013-03-18
-permalink: setting-constraints
 categories:
 ---
 

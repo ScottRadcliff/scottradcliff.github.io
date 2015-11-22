@@ -2,7 +2,6 @@
 layout: post
 title:  All About Comments 
 date:   2011-08-20
-permalink: all-about-comments-
 categories:
 ---
 

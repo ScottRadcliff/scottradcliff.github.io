@@ -2,7 +2,6 @@
 layout: post
 title:  Auto Starting Nginx With Rvm And Passenger
 date:   2013-06-12
-permalink: auto-starting-nginx-with-rvm-and-passenger
 categories:
 ---
 

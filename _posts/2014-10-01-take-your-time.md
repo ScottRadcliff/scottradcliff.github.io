@@ -2,7 +2,6 @@
 layout: post
 title:  Take Your Time
 date:   2014-10-01
-permalink: take-your-time
 categories:
 ---
 

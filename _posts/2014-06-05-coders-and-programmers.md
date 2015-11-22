@@ -2,7 +2,6 @@
 layout: post
 title:  Coders And Programmers
 date:   2014-06-05
-permalink: coders-and-programmers
 categories:
 ---
 
