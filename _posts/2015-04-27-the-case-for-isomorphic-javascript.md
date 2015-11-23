@@ -10,7 +10,7 @@ If you know me at all. Even if you haven’t seen me rant on Twitter, you should
 Granted, JavaScript is just a programming language. As such, you can do programmery things with it.
 
 My argument has always been *Is this the right task for JavaScript?*. One could say C++ is a great language, but you would be crazy to try and build a complete web application with it. That’s just not what it’s good at. It’s better at close to the metal stuff. Super fast code. And because of that, it’s more difficult to work with than a higher level scripting language.
-
+<!--more-->
 Here is the part where I declare why JavaScript was invented so  I can make the case that we are using it wrong. But while researching I learned something I didn’t expect.
 
 First, [JavaScript was invented for nonprofessional programmers](http://en.wikipedia.org/wiki/JavaScript#History). That sounds harsh, and I imagine this makes a lot of JavaScript developers angry. It could be reworded as “_JavaScript was invented to target non-java and non-c++ developers._” It was invented to give more developers access to a programming environment that they could work in and possible build more awesome stuff.
@@ -52,5 +52,3 @@ Netscape had the right idea in ’94. If you are developing JavaScript apps, dev
 I’ve been researching and playing around with isomorphic application development. I really think this is the next logical step for the web.
 
 I’d like to report back with more data once I have a few of these under my belt, but I really encourage you to take a look at isomorphic development. Especially if you’ve felt the extracted API pain.
-
-

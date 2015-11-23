@@ -10,7 +10,7 @@ I love me some [Sinatra](http://sinatrarb.com). More often than not, I reach for
 Naturally when using something like Sinatra, you lose certain things like the auto reloading of files and niceties like compiling [Sass](http://sass-lang.com/) for you.
 
 There are tools for these. [Shotgun](https://github.com/rtomayko/shotgun) allows Sinatra apps to be reloaded when files change. You do still have to manually refresh the browser, but you no longer need to restart the server.
-
+<!--more-->
 And of course, Sass comes with a [CLI](http://sass-lang.com/documentation/file.SASS_REFERENCE.html#using_sass) for compiling sass files into css files. It’s pretty straight forward. Pass it some sass files and some css files, and it will compile them for you. I generally pass it entire directories. Something like this
 
     sass —watch sass:css
@@ -50,6 +50,3 @@ Because we have defined a default task, we can run this one of two ways.
 		rake start
 
 One less thing you need to think about.
-
-
-

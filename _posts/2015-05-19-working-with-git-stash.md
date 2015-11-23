@@ -12,7 +12,7 @@ You don’t really want to commit because you have some garbage changes that you
 Then something comes up and you need to jump on another branch and fix something really quick. Call it a hot fix.
 
 Now you’re stuck. You might just grumble a little bit, add what you have, and commit with a vague and often unhelpful commit message. I’ve done this a lot. Too often.
-
+<!--more-->
 This is what `git stash` was designed for. With stash you take everything you have, store it somewhere so it doesn’t mess you’re working tree, and come back to it later.
 
 Here’s how it works.

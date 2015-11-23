@@ -15,3 +15,5 @@ github_username:  scottradcliff
 markdown: kramdown
 permalink: /:title
 excerpt_separator: <!--more-->
+gems: ['jekyll-paginate']
+paginate: 10
