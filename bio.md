@@ -8,7 +8,7 @@ My story isn't the typical programmer story. I wasn't hacking on computers build
 
 It wasn't until I had already grown up and worked for several years before I started messing with computers and trying to figure out how things worked.
 
-![]({{ site.url }}/assets/images/profile.jpg)
+<img src="{{ site.url }}/assets/images/profile.jpg" class="profile">
 
 I worked as an Ironworker for 13 years before I had some pretty lengthy layoffs. I decided I wanted to know how websites worked, bought some books, and started to play with creating my own websites. Of course, they were completely awful as I taught myself.
 
