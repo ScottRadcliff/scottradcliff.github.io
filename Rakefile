@@ -1,13 +1,13 @@
 require 'time'
 
-desc 'create a new blog post'
+desc 'create a new blog post with a title: rake post TITLE="Some Title"'
 task :post do
     title = ENV['TITLE']
     slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
 
     file = File.join(
         File.dirname(__FILE__),
-        '_posts',
+        '_drafts',
         slug + '.md'
     )
 
@@ -17,8 +17,6 @@ task :post do
 layout: post
 title: #{title}
 date: DATE
-permalink: LINK
-categories:
 ---
 
         EOS
