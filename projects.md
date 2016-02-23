@@ -26,7 +26,20 @@ I dislike reports. I dislike reports a lot. A whole lot. I started to write a li
 [Schema Parser on GitHub](https://github.com/ScottRadcliff/schema_parser)
 
 # Programmer's Notebook
+Every programmer writes an app for snippets, right? This was one of my two attempts at that. This one used MongoDB and only has 40-some commits. It's pretty old. Still sitting on Rails 3.2
+
+Feel free to grab it and go if there are some things in there that help you.
+
+**This app no longer being maintained**
 
 # Snippets
+Attempt two at a snippet app. This one uses Heroku and is a little cleaner than the Rails app. Turns out Rails is overkill for an app like this. 
+
+It still used Mongo, but now with the standard Ruby mongo driver. What can I say? I loved MongoDB at this time.
+
+Feel free to use.
+
+**This app no longer being maintained**
+
 
 # Linker
