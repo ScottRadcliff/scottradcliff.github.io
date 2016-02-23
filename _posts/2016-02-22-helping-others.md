@@ -4,7 +4,7 @@ title:  Lending a Helping Hand
 date:   2016-02-22
 ---
 
-Have you ever thought about why it's called *lending* a helping hand? (test)
+Have you ever thought about why it's called *lending* a helping hand?
 
 Because it's temporary.
 
