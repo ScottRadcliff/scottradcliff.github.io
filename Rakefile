@@ -2,7 +2,7 @@ require 'time'
 
 desc 'create a new blog post with a title: rake post TITLE="Some Title"'
 task :post do
-    title = ENV['TITLE']
+    title = ENV['TITLE'] || "draft"
     slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
 
     file = File.join(
