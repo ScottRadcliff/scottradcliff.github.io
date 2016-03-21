@@ -1,4 +1,8 @@
-# Thinking is Underrated
+---
+layout: post
+title:  Thinking is Underrated
+date:   2016-03-21
+---
 
 I try to start every programming task with some thought.
 
