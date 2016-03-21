@@ -17,3 +17,11 @@ excerpt_separator: <!--more-->
 gems: ['jekyll-paginate']
 paginate: 10
 permalink: :title.html
+
+defaults:
+  -
+    scope:
+      path: "posts"
+    values:
+      layout: "post"
+      title: "[Draft] A Sample Post"
