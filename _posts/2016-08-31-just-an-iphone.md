@@ -4,8 +4,6 @@ title:  Just an iPhone
 date:   2016-08-31
 ---
 
-# Just an iPhone
-
 Continuing with the *I think I want to make videos* era has me thinking of a new constraint. 
 
 Not only could I use stories on Instagram and Snapchat. I could limit any videos to only iPhone created content. 
