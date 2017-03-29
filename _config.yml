@@ -1,7 +1,7 @@
 # Site settings
 title: Scott Radcliff
 email: scott@scottradcliff.com
-meta_description: "Personal website of Scott Radcliff. Caution. Words about really nerdy stuff."
+meta_description: "Personal website and blog of Scott Radcliff, Software Developer specializing in Ruby and Ruby on Rails."
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
