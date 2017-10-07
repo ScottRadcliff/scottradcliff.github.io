@@ -8,6 +8,8 @@ I thought writing down some thoughts everyday would be easier. I'm always wrong,
 
 That's not what this is about. It's about [codecation](http://scottradcliff.com/codecation.html). I haven't had any updates. So I wanted to list what I planned on doing, and what I actually did.
 
+<!--more-->
+
 What I thought I would do:
 
 1. Journal via this site everyday. All the things that were going on, with some images and possibly videos.

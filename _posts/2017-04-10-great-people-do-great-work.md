@@ -10,6 +10,8 @@ In the book, Ed Catmull is talking about some of Pixar's successes and some of t
 
 > Getting the team right is the precursor to getting the ideas right
 
+<!--more-->
+
 The general idea is this: You can give a mediocre team a great idea and they will build that great idea, but a mediocre team will never make a mediocre idea great. Contrary, you can give a great team a mediocre idea and they will make it great.
 
 This backs up my thought process behind recruiting and hiring at [Whitelabel](http://wlabel.co/). I look for great _people_, not necessarily great developers. Not because I don't value great developers. But because a great person can become a great developer. A great developer that is a jerk, can't always become a great person.

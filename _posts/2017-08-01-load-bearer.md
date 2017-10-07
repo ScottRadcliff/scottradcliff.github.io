@@ -11,6 +11,8 @@ I won’t bore you with too many details. But just in case you aren’t familiar
 
 The counter point is that some walls are non-load bearing. You can tear them out and the rest of the house will be fine.
 
+<!--more-->
+
 I’ve been building a software development team for about two years. The load that any one member of that team can hold is both critical to it’s success, and critical to it’s longevity.
 
 ## Parts of the Team

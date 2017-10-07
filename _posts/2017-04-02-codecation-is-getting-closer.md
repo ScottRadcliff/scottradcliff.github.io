@@ -9,6 +9,8 @@ I may be a little too excited. It's the month of my codecation and I've been cou
 
 1. Help remind me to hang in there. I almost have a vacation. It's been several years since I've had an actual vacation. The last time I had a _vacation_ was when my daughter was graduating from bootcamp for the Marines in Parris Island, S.C. -- Not sure that qualifies as a vacation, but that's those closest this I have in about 4-5 years. I'm ready!
 
+<!--more-->
+
 2. Remind me that I have work to do before April 19th gets here. I have a lot of pre-work to do before we leave. Some last minute travel details, but more importantly, I need to get my side project in a place that is good for me to finish it. This includes hangover days.
 
 With roughly four weeks until codecation is over and I need to ship, here is my loose schedule for my project. Disclaimer: I'm about 80% done, but not happy. I decided to go back and wireframe the entire thing so I can get a good plan for finishing. I never did that at the beginning. I just hacked some stuff together.

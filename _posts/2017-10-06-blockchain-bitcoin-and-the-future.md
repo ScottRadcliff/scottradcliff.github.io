@@ -18,6 +18,7 @@ Through a conversation where I was answering some questions about blockchain, I
 was asked to do a CryptoNight (kryptonite if the pun doesn't make it through
 text). Where I would explain how it works and what the future holds.
 
+<!--more-->
 
 The first part of the presentation attempts to give a really high level view of
 cryptocurrency and how it came about. The tricky part of this particular

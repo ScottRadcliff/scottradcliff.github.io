@@ -10,6 +10,8 @@ The point is that I have nooooo problem starting. I have tons of apps that I hav
 
 But. As with thousands and thousands of creative people, finishing is an issue. It's that last 10%. And worth mentioning that 10% varies by project. But it's that last little bit that goes on forever.
 
+<!--more-->
+
 I wish I knew the solution. It's actually kind of depressing. It even effects me in my day job. I guess I take that responsibility on.
 
 I've been spending some time thinking about finishing. I have a couple of conclusions.

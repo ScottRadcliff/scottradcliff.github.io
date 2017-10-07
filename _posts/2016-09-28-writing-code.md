@@ -6,6 +6,8 @@ date:   2016-09-28
 
 Anyone that knows me, knows I’m a huge fan of readable code. I think all code should explicitly say what it does. I’m favorable to long method names. Sometimes long class names. And if it makes sense, I am okay with a large number of files. Even if those files don’t contain a lot of code, but help the programmer understand what the program does.
 
+<!--more-->
+
 The style I favor is not quite [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming), but close. I’m not really a fan of writing a mountain of documentation to explain every facet of a program. I am a fan of writing just enough documentation to help the reader understand.
 
 But better than writing documentation to understand the program, I prefer to write the program in a way that is clear what the program does. [Code is written for programmers](http://rumproarious.com/2015/01/20/programs-are-meant-to-be-read-by-humans-and-only-incidentally-for-computers-to-execute/). The computer only understands it once it’s in binary form. The computer doesn’t care if your methods are short, how many of them there are, or how clever the code is. (of course this doesn’t take into account performance. The computer obviously cares about how efficient code runs.)

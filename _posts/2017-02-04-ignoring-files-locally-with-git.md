@@ -1,4 +1,8 @@
---- layout: post title:  Ignoring Local Files with Git date:   2017-02-04 ---
+--- 
+layout: post
+title:  Ignoring Local Files with Git
+date:   2017-02-04 
+---
 
 
 When your are working on a team, it changes some of the decisions regarding
@@ -10,6 +14,8 @@ feature I may be working on. I could add these files to the `.gitignore` file,
 but I'm sure I'd be questioned as to why I was adding that. And with good
 reason. I should only add things that are project specific, not programmer
 specific.
+
+<!--more-->
 
 Turns out, I can have some sort of local `.gitignore`.
 
