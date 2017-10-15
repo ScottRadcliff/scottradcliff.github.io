@@ -7,7 +7,7 @@ task :post do
 
     file = File.join(
         File.dirname(__FILE__),
-        '_drafts',
+        '_posts',
         slug + '.md'
     )
 
