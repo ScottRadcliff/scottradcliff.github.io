@@ -53,25 +53,3 @@ With this application, there were a few considerations.
 
 
 
-## Rails API
-Problem: Gain speed an efficiency within a development team and take advantage of React and modern web application
-
-
-Solution: Build an API in Rails 5.0 that is built in parallel with React build.
-
-
-Having worked on a handful of these client/server applications now, I've found that the best thing to do is to spend some time defining what the server should return, and start building out the API infrastructure while client-side code is being written. This allows a team to tie things together as needed without effecting the speed of either team.
-
-I've worked on three of these so far. Here are some best practices, in my experience.
-
-* Keep client side code and server side code in the same repository. Usually a client directory for front end code and a server directory for the server side code. Splitting client side and server side into separate repositories creates a headache. Having them inside the same repository helps keep development costs down.
-
-The most difficult part is deployment. If using Heroku and you don't have the root of git repository at the root of the rails app, you may need to jump through some hoops to get Heroku to recognize that it's a rails app.
-
-I haven't done this with Docker yet, but I doubt the same problem still exists.
-
-* Use an API documentation tool to automatically turn you tests into functional API docs. This makes the transfer of knowledge super easy and _mostly_ up to date.
-
-* Always pass authentication token is HTTP headers
-
-* Use a serializer to only return the data you need to the client side.
