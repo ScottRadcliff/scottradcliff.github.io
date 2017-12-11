@@ -4,9 +4,6 @@ title: Problem Solved
 permalink: /problems-solved/
 ---
 
-
-# Problems Solved
-
 I work on a lot of private projects. And some of those projects aren't things I can necessarily share for various reasons. Sometimes it's because I performed this work for another company, or I was part of a larger team and I don't want it to look like I am taking credit for something I didn't do. 
 
 But I can share insight into the problems faced and how they were solved. That is what this is. Some insights into the types of things I have worked on without sharing anything that shouldn't be shared for privacy reasons.
