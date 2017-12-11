@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Problem Solved
+title: Problems Solved
 permalink: /problems-solved/
 ---
 
