@@ -10,6 +10,12 @@ My latest gig was leading the engineering team at Whitelabel Collaborative in To
 
 Right now, I am working on making hiring developers better, building applications on Blockchain technology, and working as a freelance developer to help people build out really cool projects. If you have a project, <a href="mailto:scott@scottradcliff.com">we should talk</a>.
 
+I believe in:
+
+* Software for the greater good
+* People over profits (profits will come if you treat people well)
+* Family first
+
 You can find me on [Github](https://github.com/scottradcliff), [Twitter](https://twitter.com/scottradcliff), [Instagram](https://instagram/scottradcliffagain), or just <a href="mailto:scott@scottradcliff.com">email me at scott@scottradcliff.com</a>.
 
 
