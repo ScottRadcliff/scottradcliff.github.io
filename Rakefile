@@ -16,7 +16,7 @@ task :post do
 ---
 layout: post
 title: #{title}
-date: DATE
+date: #{Date.today.strftime('%Y-%m-%d')}
 ---
 
         EOS
