@@ -12,7 +12,7 @@ Today, how small I should  make components clicked. I mean I knew how to make co
 
 <!--more-->
 
-The trick is to break them down so far, that a [container component has no native HTML code](https://www.ludovf.net/blog/make-small-reactjs-components/). Just a series of calls to other components. This seems like a good rule of thumb to shoot for. Dan Abramov calls these [presentational and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0). I'm not sure if he created these terms, but I wouldn't be surprised if he did. And now that I've had some experience with the pain of not breaking them down far enough, I really see the beauty in this.
+The trick is to break them down so far, that a [container component has no native HTML code](https://www.ludovf.net/blog/make-small-reactjs-components/). Just a series of calls to other components. This seems like a good rule of thumb to shoot for. Dan Abramov has a great article on [presentational and container components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0). And now that I've had some experience with the pain of not breaking them down far enough, I really see the beauty in this.
 
 Take some info for a meeting for example.
 
