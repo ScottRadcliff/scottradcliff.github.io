@@ -65,7 +65,7 @@ Now we can call this:
     "This is a string with a [link](http://google.com) to Google".gsub(/\[(.+)\]\((.+)\)/, '<a href=\2>\1</a>')
       => "This is a string with a <a href=http://google.com>link</a> to Google"
 
-I can’t seem to figure out how to wrap the URL in quotes. Partly because if you use double quotes you get unicode back.
+I can't seem to figure out how to wrap the URL in quotes. Partly because if you use double quotes you get unicode back.
 
     "This is a string with a [link](http://google.com) to Google".gsub(/\[(.+)\]\((.+)\)/, "<a href=\2>\1</a>")
       => "This is a string with a <a href=\u0002>\u0001</a> to Google"
