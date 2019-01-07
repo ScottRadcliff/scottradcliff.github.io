@@ -4,7 +4,7 @@ email: scott@scottradcliff.com
 meta_description: "Personal website and blog of Scott Radcliff, Software Developer specializing in Ruby and Ruby on Rails."
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://scottradcliff.com" # the base hostname & protocol for your site
 twitter_username: scottradcliff
 github_username:  scottradcliff
 
