@@ -8,3 +8,5 @@ Today Github announced [free private repositories](https://blog.github.com/2019-
 
 
 What I fear is that we just became the product, and that Microsoft did this in attempt to grow as large as it possibly can. Imagine what a company that makes software and services could do with the largest collection of developers on the planet. I hope that's pessimistic and only good things come from this.
+
+Update: Some good reasoning/comments on the [HN thread](https://news.ycombinator.com/item?id=18848517)
