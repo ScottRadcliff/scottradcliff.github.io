@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rewatching Game of Thrones
-date: 2019-01-06
+date: 2018-01-06
 ---
 
 Now that it's 2019 and the final episodes of Game of Thrones are coming, I
