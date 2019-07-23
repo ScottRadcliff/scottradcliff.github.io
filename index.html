@@ -2,38 +2,33 @@
 layout: default
 ---
 
-<div class="home">
+<section class="row">
+  <section class="col-md-6">
+    <p>Hi, I'm Scott, a freelance software developer from NW Ohio. I make stuff on the Internet with various programming languages. Most recently Ruby, but Elixir is super interesting to me. I'm fairly opinionated when it comes to the software industry. I've written about how <a href="http://scottradcliff.com/great-people-do-great-work.html">great people do great work</a>, <a href="http://scottradcliff.com/how-to-estimate-software.html">how I estimate software</a>, and how <a href="http://scottradcliff.com/how-to-estimate-software.html">the fundamentals of software</a> are better than whatever the latest cool framework is.
+  </section>
+  <section class="col-md-5 ml-5">
+    <img width="350" src="/assets/images/me.jpg" class="ml-5"/>
+  </section>
+</section>
 
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<section class="row">
+  <div class="col-md-12 mt-5">
+    <h2>Start here for articles.</h2>
+    <ul>
+      <li class="pb-2"><a href="http://scottradcliff.com/software-developers-and-cognitive-load.html">Software Developers and Cognitive Load</a></li>
+      <li class="pb-2"><a href="http://scottradcliff.com/how-to-parse-urls-in-markdown.html">How to Parse URLs in Markdown</a></li>
+      <li class="pb-2"><a href="http://scottradcliff.com/how-to-stucture-react-components.html">How to Structure React Components</a></li>
+      <li class="pb-2"><a href="http://scottradcliff.com/hiring-developers.html">Hiring Developers</a></li>
+    </ul>
+  </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-          {{ post.excerpt }} 
-          {% if post.content contains site.excerpt_separator
-          %}
-            <a href="{{ post.url }}">Continue Reading {{ post.title }}
-            &rightarrow;</a>
-          {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+  <div class="col-md-6 mt-5">
+    <h2>And here for some talks.</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YvCbPj6TwVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <script async class="speakerdeck-embed" data-id="4f3cf690caef0131c4bf4e91c40e8f54" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </div>
+  <div class="col-md-6 mt-5">
+      <script async class="speakerdeck-embed" data-id="5a81e2caf9614209a9840f1aa7317a2d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  </div>
+</section>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
