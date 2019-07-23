@@ -7,7 +7,7 @@ date: 2019-07-23
 The software development world is almost completely git-based now. I'm sure there are other version control systems being used, but I personally haven't seen anything but git for several years. Git even extends beyond code. Authors use git for books, Universities use git for documentation, and some designers use git for large image files.
 
 And while git is awesome and makes our jobs easier, it's complex. Most people new to git learn a couple of commands that help them get through their day, not realizing that they could do more with a little bit more knowledge of git and the command line. I want to outline three additional things that I use that help make git even more powerful.
-<!--more-->
+
 ## Git Aliases
 [Lazy programmers](http://blogoscoped.com/archive/2005-08-24-n14.html) are good programmers. We all should have aliases. And git has a system to define aliases that are just for git.
 
