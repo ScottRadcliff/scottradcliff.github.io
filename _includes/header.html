@@ -3,13 +3,11 @@
     <h4><a class="dark" href="{{ site.baseurl }}/">{{ site.title }}</a></h4>
   </div>
     <nav class="nav col-md-3">
-          <a class="nav-link dark" href="{{ site.baseurl }}/">Blog</a>
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="nav-link dark" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-        <a class="nav-link dark" href="feed.xml">RSS</a>
+      <a class="nav-link dark" href="{{ site.baseurl }}/blog">Blog</a>
+      <a class="nav-link dark" href="{{ site.baseurl }}/blog/all">Archive</a>
+      <a class="nav-link dark" href="{{ site.baseurl }}/bio">Bio</a>
+      <a class="nav-link dark" href="{{ site.baseurl }}/feed.xml">RSS</a>
+      <script async src="https://cse.google.com/cse.js?cx=010296547889865721609:ntql2zfxu-8"></script>
+      <div class="gcse-search"></div>
     </nav>
-
 </header>
