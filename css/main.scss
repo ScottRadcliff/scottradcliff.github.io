@@ -4,6 +4,7 @@
 @charset "utf-8";
 
 $dark: #272626;
+$links: #cc1010;
 
 body {
   font-family: "Helvetica Neue", Arial;
@@ -20,4 +21,23 @@ a.dark:hover {
 
 nav > a:hover {
   color: $dark;
+}
+
+a {
+  color: $links;
+}
+
+article > p > img {
+  width: 100%;
+}
+
+
+// Landing Page
+#intro {
+  img {
+    border-radius: 179px;
+  }
+  p {
+    font-size: 151%;
+  }
 }
