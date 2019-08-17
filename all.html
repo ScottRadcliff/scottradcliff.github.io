@@ -4,10 +4,10 @@ title: All Posts
 permalink: /blog/all
 ---
 
-<div class="row">
+<div class="row" id="all-posts">
   {% for post in site.posts %}
     <header class="col-8 offset-2">
-      <p><em>{{ post.date | date: "%b %-d, %Y" }}</em><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p><em>{{ post.date | date: "%b %-d, %Y" }}</em> <a href="{{ post.url }}">{{ post.title }}</a></p>
     </header>
   {% endfor %}
 </div>
