@@ -11,7 +11,23 @@ layout: default
     {{ content }}
   </article>
   
-  <div class="col-8 offset-2 mt-5">
-    <a href="/archive/">View all posts</a>
-  </div>
-</div>
+  <div class="row col-8 offset-2 mt-5 pt-5" id="post-footer">
+      <p>If you enjoyed this and would like to be notified the next time I write something, you can <a href="/subscribe/">subscribe</a> with your choice of RSS or Email.</p>
+      <p>I promise not to spam you and you can unsubscribe at anytime.</p>
+      <p>Also, here are some other items you might like longer longer:</p>
+    </div> 
+
+    <div class="row col-8 offset-2">
+      <ul class="nav flex-column">
+        {% for post in site.posts limit: 5 %}
+          {% unless page.title == post.title %}
+            <li class="nav-item"><a class="nav-link" href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endunless %}
+        {% endfor %}
+      </ul>  
+    </div>
+    
+    <div class="row col-8 offset-2 mt-2">
+      <p>or go see everything in the <a href="/archive/">archive</a>.</p>
+    </div>
+  </div>  
