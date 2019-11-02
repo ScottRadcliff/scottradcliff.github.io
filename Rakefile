@@ -24,6 +24,29 @@ date: #{Date.today.strftime('%Y-%m-%d')}
 end
 
 
+desc 'Create a new draft with a title: rake draft TITLE="Some Title"'
+task :draft do
+    title = ENV['TITLE'] || "draft"
+    slug = "#{Date.today}-#{title.downcase.gsub(/[^\w]+/, '-')}"
+
+    file = File.join(
+        File.dirname(__FILE__),
+        '_drafts',
+        slug + '.md'
+    )
+
+    File.open(file, "w") do |f|
+        f << <<-EOS.gsub(/^     /, '')
+---
+layout: post
+title: #{title}
+date: #{Date.today.strftime('%Y-%m-%d')}
+---
+
+        EOS
+    end
+end
+
 
 desc 'Import all blog posts for a db export csv file'
 
