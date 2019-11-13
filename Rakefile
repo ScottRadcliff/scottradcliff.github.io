@@ -49,7 +49,6 @@ end
 
 
 desc 'Import all blog posts for a db export csv file'
-
 task :import do
   require 'csv'
   CSV.foreach("tmp/export.csv", :row_sep => "\n") do |row|
@@ -76,17 +75,13 @@ categories:
   end
 end
 
-desc 'Remove permalink from all posts'
 
-task :antipermalink do
-  files = Dir.entries("_posts")
-  files.each do |file|
-    if !file.start_with?(".")
-      file_to_read = File.new("_posts/" + file)
-      tmp_file = File.new("temp_posts/" + file, "w+")
-      file_to_read.each do |line|
-        tmp_file.write(line) unless line.start_with?("permalink")
-      end
-    end
-  end
+desc 'Start server '
+task :server do
+  system 'bundle exec jekyll serve'
+end
+
+desc 'Build site'
+task :build do
+  system 'bundle exec jekyll build'
 end
