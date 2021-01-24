@@ -7,7 +7,7 @@ date: 2021-01-04
 This is the third post in a what is a series about building an Elixir library. You can see the other posts here:
 
 * [Creating an Elixir Library](http://scottradcliff.com/creating-an-elixir-library.html).
-* [Parsing Paragraphs in Markdown](http://scottradcliff.com/parsing-paragraphs-in-markdown.html)
+* [Parsing Paragraphs in Markdown with Elixir](http://scottradcliff.com/parsing-paragraphs-in-markdown.html)
 
 It's been a minute since I've posted one of these updates. It's due to a  mixture of other things getting in the way and struggles with recursion. I thought I understood recursion in Elixir, but apparently not. I learned recursion so long ago that I've forgotten most of it. At any rate, I got it, and I think the lesson I learned is that `head | tail` is the best approach trying to iterate the same thing multiple times.
 
@@ -85,7 +85,7 @@ As long as the first parameter has something in the list, it will fire the strin
 
 Next up is fixing the bugs I found, then italics, bold, etc... I should be able to reuse some of this recursion logic to complete that.
 
-
+Update: The fix for multiple words was simple. I needed to update the Regex to accept word boundary or whitespace. `~r/\[(?<text>[\w\s]+)\]\((?<url>http\:\/\/\w+\.\w+)\)/`. I still need to address the url part of th regex
 
 
 
