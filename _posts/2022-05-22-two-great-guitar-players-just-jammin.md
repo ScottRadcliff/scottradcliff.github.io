@@ -2,6 +2,7 @@
 layout: post
 title: Two Great Guitar Players Just Jammin
 date: 2022-05-22
+tag: guitar
 ---
 
 Two of the greatest guitar players in Nashville, [Tom Bukovac](https://www.youtube.com/user/501chorusecho) and [Guthrie Trapp](https://www.youtube.com/c/guthrietrappmusic), just sitting in a room and jamming.
