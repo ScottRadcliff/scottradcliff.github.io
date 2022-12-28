@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Layering Guitar Parts on Existing Songs
+tag: guitar
 date: 2021-12-13
 ---
 
