@@ -71,5 +71,8 @@ DEPENDENCIES
   jekyll-paginate
   rake
 
+RUBY VERSION
+   ruby 2.7.8p225
+
 BUNDLED WITH
    2.1.4
