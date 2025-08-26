@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll-paginate'
-gem 'jekyll'
-gem 'rake'
+gem "jekyll", "~> 4.3"
+gem "jekyll-sass-converter", "3.0.0"
+

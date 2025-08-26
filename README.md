@@ -4,7 +4,7 @@ Source for my personal site. It's built with [Jekyll](http://jekyllrb.com/).
 ## Run the app in a container
 `docker build -t jekyll-app .`
 
-`docker run --rm -p 4000:4000 -v $(pwd):/app jekyll-app`
+`docker run --rm -p 4000:4000 jekyll-app`
 
 
 * --rm removes the container when stopped.

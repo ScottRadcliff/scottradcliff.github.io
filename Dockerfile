@@ -1,24 +1,22 @@
-FROM ruby:3.4.1
+FROM ruby:3.2
 
-# Set the working directory
+# Install dependencies (node, etc. required for Jekyll)
+RUN apt-get update && apt-get install -y \
+  build-essential \
+  nodejs \
+  && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
 
-# Install dependencies
-RUN apt-get update -qq && apt-get install -y nodejs npm && \
-    gem install bundler jekyll
+# Copy gem dependencies first to cache better
+COPY Gemfile Gemfile.lock ./
 
-# Copy the Gemfile and Gemfile.lock
-COPY Gemfile ./
+# Force clean bundle install inside the container
+RUN bundle config set --local path 'vendor/bundle' \
+ && bundle install --jobs 4 --retry 3
 
-# Install gems
-RUN bundle install
-
-# Copy the rest of the application
+# Copy the rest of your Jekyll site
 COPY . .
 
-# Expose port 4000 for Jekyll server
-EXPOSE 4000
-
-# Set the default command to serve the Jekyll site
-CMD ["jekyll", "serve", "--host", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
 
