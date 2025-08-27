@@ -4,8 +4,13 @@ Source for my personal site. It's built with [Jekyll](http://jekyllrb.com/).
 ## Run the app in a container
 `docker build -t jekyll-app .`
 
+`docker build --no-cache -t jekyll-app .`
+
 `docker run --rm -p 4000:4000 jekyll-app`
 
+_Solution to rebuild the container and launch the app when something changes._
+
+`docker build -t jekyll-app . && docker run --rm -p 4000:4000 jekyll-app`
 
  ### Log into container
 `docker ps --format "{{.ID}}  {{.Image}}`

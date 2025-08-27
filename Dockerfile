@@ -18,5 +18,6 @@ RUN bundle config set --local path 'vendor/bundle' \
 # Copy the rest of your Jekyll site
 COPY . .
 
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--livereload", "--force_polling", "--watch"]
+
 
