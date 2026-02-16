@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html>
-  {% include head.html %}
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
   <body>
     <div class="container">
-      {% include header.html %}
       {{ content }}
+      <footer>
+        © {{ site.time | date: "%Y" }} Scott Radcliff
+      </footer>
     </div>
-    {% include footer.html %}
   </body>
 </html>

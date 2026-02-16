@@ -1,33 +1,23 @@
 ---
 layout: default
+title: Home
 ---
 
-<section class="row" id="intro">
-  <section class="col-md-6">
-    <p>Hi, I'm Scott, a software developer from NW Ohio. I make stuff on the Internet with various programming languages. Most recently Elixir, but Ruby is still close to my heart. I'm fairly opinionated when it comes to the software industry. I've written about how <a href="/great-people-do-great-work.html">great people do great work</a>, <a href="/how-to-estimate-software.html">how I estimate software</a>, and how <a href="/how-to-estimate-software.html">the fundamentals of software</a> are better than whatever the latest cool framework is.
-  </section>
-  <section class="col-md-5 ml-5">
-    <img width="350" src="/assets/images/me.jpg" class="ml-5"/>
-  </section>
-</section>
+<h1>Scott Radcliff</h1>
+<p class="meta">Software Engineer</p>
 
-<section class="row">
-  <div class="col-md-12 mt-5">
-    <h2>Start here for tech articles.</h2>
-    <ul>
-      <li class="pb-2"><a href="/using-chatgpt-to-search-git-history-for-a-string.html">Using ChatGPT to Search Git History for a String</a></li> 
-      <li class="pb-2"><a href="/parsing-hyperlinks-in-markdown.html">Parsing Hyperlinks in Markdown with Elixir</a></li> 
-      <li class="pb-2"><a href="/creating-an-elixir-library.html">Creating an Elixir Library</a></li> 
-      <li class="pb-2"><a href="/learning-sql-should-be-a-requirement.html">Learning SQL Should be a Requirement</a></li> 
-      <li class="pb-2"><a href="/piping-elixir-functions-without-arguments.html">Piping Elixir Functions Without Arguments</a></li> 
-      <li class="pb-2"><a href="/software-developers-and-cognitive-load.html">Software Developers and Cognitive Load</a></li> 
-      <li class="pb-2"><a href="http://scottradcliff.com/hiring-developers.html">Hiring Developers</a></li>
-    </ul>
+{% for post in site.posts %}
+  <div class="post-preview">
+    <h2>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <p class="meta">
+      {{ post.date | date: "%B %d, %Y" }}
+    </p>
+    <p>
+      {{ post.excerpt | strip_html | truncate: 160 }}
+    </p>
   </div>
-
-
-  <div class="col-md-6 mt-5">
-      
-  </div>
-</section>
-
+{% endfor %}
