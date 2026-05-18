@@ -1,0 +1,24 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
+<h1>Contact</h1>
+
+<p>
+  Send me a note and your email client will open a message addressed to me.
+</p>
+
+<form class="contact-form" action="mailto:{{ site.email }}" method="post" enctype="text/plain">
+  <label for="name">Name</label>
+  <input id="name" name="name" type="text" autocomplete="name" required>
+
+  <label for="email">Email</label>
+  <input id="email" name="email" type="email" autocomplete="email" required>
+
+  <label for="message">Message</label>
+  <textarea id="message" name="message" rows="8" required></textarea>
+
+  <button type="submit">Send Email</button>
+</form>

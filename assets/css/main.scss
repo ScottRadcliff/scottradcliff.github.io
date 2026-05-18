@@ -43,6 +43,43 @@ body {
   padding: 4rem 1.5rem;
 }
 
+.site-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 4rem;
+}
+
+.site-title {
+  color: $color-text;
+  display: inline-block;
+  font-weight: 800;
+  font-size: 1.5em;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.site-tagline {
+  color: $color-muted;
+  font-size: 0.9rem;
+  margin: 0.1rem 0 0;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 0.95rem;
+
+  a[aria-current="page"] {
+    color: $color-text;
+    font-weight: 600;
+  }
+}
+
 /* ---- 4. Typography ---- */
 
 h1, h2, h3, h4 {
@@ -116,6 +153,68 @@ pre {
   }
 }
 
+.all-posts-link {
+  margin-top: 2rem;
+}
+
+.archive-list {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid $color-border;
+  }
+}
+
+.contact-form {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 2rem;
+
+  label {
+    font-weight: 600;
+  }
+
+  input,
+  textarea {
+    width: 100%;
+    border: 1px solid $color-border;
+    border-radius: 6px;
+    font: inherit;
+    padding: 0.75rem;
+  }
+
+  button {
+    justify-self: start;
+    margin-top: 0.75rem;
+    border: 0;
+    border-radius: 6px;
+    background: $color-accent;
+    color: #ffffff;
+    cursor: pointer;
+    font: inherit;
+    font-weight: 600;
+    padding: 0.7rem 1rem;
+
+    &:hover {
+      background: #9f4141;
+    }
+  }
+}
+
+@media (max-width: 560px) {
+  .container {
+    padding-top: 2rem;
+  }
+
+  .site-header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+}
+
 /* ---- 7. Footer ---- */
 
 footer {
@@ -125,4 +224,3 @@ footer {
   font-size: 0.9rem;
   color: $color-muted;
 }
-
