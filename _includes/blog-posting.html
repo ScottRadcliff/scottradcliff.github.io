@@ -1,0 +1,19 @@
+{%- assign article_url = page.url | absolute_url -%}
+{%- assign article_author = page.author | default: site.title -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify | replace: '<', '\u003c' }},
+  "url": {{ article_url | jsonify | replace: '<', '\u003c' }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  {% if page.image %}
+  "image": {{ page.image | absolute_url | jsonify | replace: '<', '\u003c' }},
+  {% endif %}
+  "author": {
+    "@type": "Person",
+    "name": {{ article_author | jsonify | replace: '<', '\u003c' }}{% unless page.author %},
+    "url": {{ '/bio/' | absolute_url | jsonify }}{% endunless %}
+  }
+}
+</script>
