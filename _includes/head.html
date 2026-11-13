@@ -13,6 +13,9 @@
 {% if page.noindex %}
 <meta name="robots" content="noindex">
 {% endif %}
+{% if page.layout == 'post' %}
+  {% include blog-posting.html %}
+{% endif %}
 
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
