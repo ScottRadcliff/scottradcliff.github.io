@@ -5,7 +5,7 @@ date:   2013-03-05
 categories:
 ---
 
-Dave Winer has nailed the [essence of programming](http://threads2.scripting.com/2013/february/whyYouShouldLearnToCode) in response to the [code.org](code.org) campaign. In it Dave talks about programming for the love of the craft, and not programming for money.
+Dave Winer has nailed the [essence of programming](http://threads2.scripting.com/2013/february/whyYouShouldLearnToCode) in response to the [code.org](https://code.org/) campaign. In it Dave talks about programming for the love of the craft, and not programming for money.
 
 He makes some good examples out of sports, music, and art.
 

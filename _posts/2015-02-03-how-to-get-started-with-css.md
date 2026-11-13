@@ -31,7 +31,7 @@ This example assumes the file is named main.css in a folder called styles.
 
 
 ## Syntax
-The syntax of CSS differs some from the syntax of [HTML](http://scottradcliff.com/post/getting_started_with_web_development). In HTML, you have tags that use < and > with elements in between.
+The syntax of CSS differs some from the syntax of [HTML]({{ "/getting-started-with-web-development.html" | relative_url }}). In HTML, you have tags that use < and > with elements in between.
 
 CSS has an HTML selector, followed from curly braces {}, and a series of key/value pairs separated by a semicolon. If you have zero programming experience, this will be your first foray into curly brace syntax. This type of syntax will carry over into many languages. **CSS is not a programming language. But it does share some syntax.** That is where the similarities end.
 

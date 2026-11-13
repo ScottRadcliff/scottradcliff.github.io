@@ -11,4 +11,4 @@ I've read books/blogs and listened to many podcasts about startups and building 
 
 All too often I just stop. I don't know, maybe I get cold feet, or maybe I talk myself into thinking that what I am building will never work. But I never stay the course to see.
 
-Without a doubt, staying the course *is* the hardest part. Embarrassingly enough, I just wrote a [blog post](http://scottradcliff.com/post/this_feels_too_much_like_work) a few days ago where I jumped ship. Looks like it's time to climb back on board.
+Without a doubt, staying the course *is* the hardest part. Embarrassingly enough, I just wrote a [blog post]({{ "/this-feels-too-much-like-work.html" | relative_url }}) a few days ago where I jumped ship. Looks like it's time to climb back on board.

@@ -27,7 +27,7 @@ The key here is to error on the side communication.
 
 ## Verbosity
 
-Let me get this out of the way. [You are not clever](http://scottradcliff.com/post/dont_be_clever).
+Let me get this out of the way. [You are not clever]({{ "/dont-be-clever.html" | relative_url }}).
 
 That super cool method that your wrote that handles several conditions in one place is a monster to understand. Other developers have no idea why you would need to have all the logic in one place.
 

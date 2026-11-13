@@ -14,7 +14,7 @@ Think of this as explaining to someone how to use your software.
 I realize this may sound a little goofy. Consider it the solo version of explaining a problem to someone. You are, in fact, explaining the problem to someone. That someone just happens to be you. And you are explaining it to understand it. You get an added bonus of being able visualize a good design from a bad design _before_ you program it.
 
 ## The Perils of TDD and the Lack of Thinking
-I’ve sounded off before about [losing the planning stage with TDD](http://scottradcliff.com/post/readme_driven_development_revisited). When you start out doing TDD, people _rarely_ talk about thinking through what you are building or thinking about what you need to test. That is, aside from [Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc), but he’s not really putting it in a TDD context.
+I’ve sounded off before about [losing the planning stage with TDD]({{ "/readme-driven-development-revisited.html" | relative_url }}). When you start out doing TDD, people _rarely_ talk about thinking through what you are building or thinking about what you need to test. That is, aside from [Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc), but he’s not really putting it in a TDD context.
 
 Most of the TDD examples just jump right into code and driving your design through tests, and that’s great, but when you don’t know where you are headed, you’re really just wasting time.
 

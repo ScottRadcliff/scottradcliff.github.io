@@ -5,7 +5,7 @@ date:   2012-11-21
 categories:
 ---
 
-A few days ago, [I listed 5 things](http://scottradcliff.com/post/what_defines_a_quality_developer) that I think make a quality developer. 5 things that a person can work on to become a craftsman. One of those things was thinking critically to compose efficient solutions. I should define what I mean.
+A few days ago, [I listed 5 things]({{ "/what-defines-a-quality-developer.html" | relative_url }}) that I think make a quality developer. 5 things that a person can work on to become a craftsman. One of those things was thinking critically to compose efficient solutions. I should define what I mean.
 
 Thinking critically is the ability to sit back and think about a problem in a broader sense. This is the exact opposite of just jumping in and programming something. Just jumping in will always result in something that you missed. Always.
 

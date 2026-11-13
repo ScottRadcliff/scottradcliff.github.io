@@ -7,6 +7,6 @@ categories:
 
 After tinkering around with this site lately, I noticed that I removed the link to the RSS Feed.
 
-I added it to the sidebar. Feel free to grab the [feed](http://scottradcliff.com/feed.rss) to get regular updates.
+I added it to the sidebar. Feel free to grab the [feed]({{ "/feed.xml" | relative_url }}) to get regular updates.
 
 Sorry about that.
