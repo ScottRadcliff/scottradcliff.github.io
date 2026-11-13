@@ -1,0 +1,5 @@
+{%- assign topic = site.data.topics[include.topic] -%}
+{%- assign tagged_urls = site.posts | where_exp: "post", "post.topics contains include.topic" | map: "url" -%}
+{%- assign curated_urls = topic.posts | default: empty -%}
+{%- assign topic_urls = curated_urls | concat: tagged_urls | uniq -%}
+{% include curated-posts.html urls=topic_urls limit=include.limit %}

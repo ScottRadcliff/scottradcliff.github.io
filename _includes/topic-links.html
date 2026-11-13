@@ -1,0 +1,9 @@
+<nav aria-labelledby="browse-topics">
+  <h2 id="browse-topics">Browse by topic</h2>
+  <ul class="topic-links" role="list">
+    {% for entry in site.data.topics %}
+      {% assign topic_url = '/topics/' | append: entry[0] | append: '/' %}
+      <li><a href="{{ topic_url | relative_url }}">{{ entry[1].title | escape }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

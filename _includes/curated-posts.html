@@ -1,0 +1,11 @@
+<ul class="archive-list" role="list">
+  {% assign shown = 0 %}
+  {% for url in include.urls %}
+    {% assign curated_post = site.posts | where: "url", url | first %}
+    {% if curated_post and curated_post.url != page.url %}
+      <li><a href="{{ curated_post.url | relative_url }}">{{ curated_post.title | escape }}</a></li>
+      {% assign shown = shown | plus: 1 %}
+      {% if shown == include.limit %}{% break %}{% endif %}
+    {% endif %}
+  {% endfor %}
+</ul>

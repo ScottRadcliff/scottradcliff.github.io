@@ -142,7 +142,7 @@ pre {
   padding: 2rem 0;
   border-bottom: 1px solid $color-border;
 
-  h2 {
+  h3 {
     margin: 0 0 0.5rem 0;
     font-size: 1.5rem;
   }
@@ -165,6 +165,14 @@ pre {
     padding: 0.5rem 0;
     border-bottom: 1px solid $color-border;
   }
+}
+
+.topic-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  padding: 0;
+  list-style: none;
 }
 
 .archive-search {

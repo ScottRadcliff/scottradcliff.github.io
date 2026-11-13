@@ -10,4 +10,18 @@ layout: default
   <article class="col-8 offset-2">
     {{ content }}
   </article>
-</div>  
+</div>
+
+{% for entry in site.data.topics %}
+  {% assign topic_slug = entry[0] %}
+  {% assign topic = entry[1] %}
+  {% if topic.posts contains page.url or page.topics contains topic_slug %}
+    {% assign topic_url = '/topics/' | append: topic_slug | append: '/' %}
+    <section aria-labelledby="related-articles">
+      <h2 id="related-articles">Related articles</h2>
+      {% include topic-posts.html topic=topic_slug limit=3 %}
+      <p><a href="{{ topic_url | relative_url }}">More in {{ topic.title | escape }}</a></p>
+    </section>
+    {% break %}
+  {% endif %}
+{% endfor %}

@@ -2,7 +2,7 @@ const searchForm = document.querySelector(".archive-search");
 const searchInput = document.querySelector("#archive-query");
 const searchStatus = document.querySelector("#archive-search-status");
 const searchResults = document.querySelector("#archive-search-results");
-const allPosts = document.querySelector("#all-posts");
+const archiveBrowse = document.querySelector("#archive-browse");
 
 let indexRequest;
 let searchVersion = 0;
@@ -74,7 +74,7 @@ async function updateSearch() {
   if (!terms.length) {
     searchStatus.textContent = "";
     searchResults.hidden = true;
-    allPosts.hidden = false;
+    archiveBrowse.hidden = false;
     return;
   }
 
@@ -87,14 +87,14 @@ async function updateSearch() {
     const matches = findMatches(posts, terms);
     searchResults.replaceChildren(...matches.map(({ post }) => resultItem(post, terms)));
     searchResults.hidden = matches.length === 0;
-    allPosts.hidden = true;
+    archiveBrowse.hidden = true;
     searchStatus.textContent = matches.length
       ? `${matches.length} ${matches.length === 1 ? "article" : "articles"} found.`
       : "No articles found. Try different search terms.";
   } catch {
     if (version !== searchVersion) return;
     searchResults.hidden = true;
-    allPosts.hidden = false;
+    archiveBrowse.hidden = false;
     searchStatus.textContent = "Search couldn’t load. Try again or browse all posts below.";
   }
 }

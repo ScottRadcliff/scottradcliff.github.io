@@ -3,13 +3,21 @@ layout: default
 title: Home
 ---
 
+<section aria-labelledby="selected-writing">
+  <h2 id="selected-writing">Selected writing</h2>
+  {% include curated-posts.html urls=site.data.featured_posts %}
+  <p><a href="{{ '/archive/#browse-topics' | relative_url }}">Browse by topic</a></p>
+</section>
+
+<h2>Recent posts</h2>
+
 {% for post in site.posts limit: 10 %}
   <div class="post-preview">
-    <h2>
+    <h3>
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
-    </h2>
+    </h3>
     <p class="meta">
       {{ post.date | date: "%B %d, %Y" }}
     </p>

@@ -1,0 +1,45 @@
+ruby-rails:
+  title: Ruby & Rails
+  posts:
+    - /how-to-disable-vcr-for-an-rspec-spec.html
+    - /using-contexts-with-rspec.html
+    - /can-i-delete-my-rails-migrations.html
+    - /rails-engines-and-migrations.html
+    - /removing-user-registration-in-devise.html
+git:
+  title: Git
+  posts:
+    - /working-with-git-stash.html
+    - /git-tips-to-help-you-work-faster.html
+    - /git-blame-a-small-section.html
+    - /using-git-blame-to-view-documentation.html
+    - /using-chatgpt-to-search-git-history-for-a-string.html
+javascript:
+  title: JavaScript
+  posts:
+    - /how-to-stucture-react-components.html
+    - /building-api-driven-react-applications.html
+    - /async-javascript-doesnt-work-like-i-thought.html
+    - /adventures-in-javascript.html
+elixir:
+  title: Elixir
+  posts:
+    - /creating-an-elixir-library.html
+    - /testing-logs-in-elixir.html
+    - /anonymous-functions-in-elixir.html
+    - /piping-elixir-functions-without-arguments.html
+    - /get-yesterdays-date-in-elixir.html
+software-design:
+  title: Software Design
+  posts:
+    - /notes-on-software-design.html
+    - /you-probably-suck-at-writing-maintainable-software.html
+    - /living-documentation.html
+    - /comments-are-documentation.html
+career-teams:
+  title: Career & Teams
+  posts:
+    - /teaching-programmers-through-empathy.html
+    - /thinking-critically-as-a-developer.html
+    - /presenting-about-remote-teams-at-self-conf.html
+    - /elixir-saved-my-career.html
