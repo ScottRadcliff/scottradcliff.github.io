@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creating an Elixir Library
+description: See how Scott Radcliff started Bargain, an Elixir Markdown library, by writing tests and converting Markdown headings to HTML.
 date: 2020-11-23
 ---
 

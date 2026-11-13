@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Working With Git Stash
+description: Use Git stash to set aside unfinished changes, switch branches for a quick fix, and restore your work when you return.
 date:   2015-05-19
 categories:
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Preceived Speed Of Software Development
+title: The Perceived Speed of Software Development
+permalink: /preceived-speed-of-software-development.html
 date:   2012-08-15
 categories:
 ---

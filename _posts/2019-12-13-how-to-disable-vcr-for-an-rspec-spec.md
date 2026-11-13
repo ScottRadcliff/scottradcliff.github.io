@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Disable VCR for an RSpec spec
+description: Temporarily disable VCR and allow network connections in WebMock so you can make real HTTP requests while debugging an RSpec test.
 date: 2019-12-13
 ---
 
