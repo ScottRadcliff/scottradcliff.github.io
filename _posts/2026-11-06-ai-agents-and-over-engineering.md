@@ -35,6 +35,8 @@ So I created a branch will all the over engineered stuff and it's on GitHub [Ove
 
 That simplified code is also on GitHub in the main branch of the [Sift Project](https://github.com/ScottRadcliff/sift) 
 
+[See Sift on the Projects page]({{ '/projects/' | relative_url }}#sift).
+
 ## How Does This Happen?
 
 I think it's because sometimes the plan that an agent writes in very verbose. It's good. Lots of detail. But I don't read enough of it. I suspect most of us don't. 

@@ -1,0 +1,33 @@
+---
+layout: default
+title: Projects
+description: Selected software projects by Scott Radcliff, including Sift, reusable AI agent skills, and an Elixir Markdown library.
+permalink: /projects/
+---
+
+<h1>Projects</h1>
+<p>A few things I’ve built, with the code and the decisions behind it.</p>
+
+<section class="post-preview" aria-labelledby="sift">
+  <h2 id="sift">Sift</h2>
+  <p>Sift is a self-contained agent skill for searching local text files and exporting matches to CSV. Ask for a search in conversation; the skill runs its bundled Python helper and reports matching file locations, skipped files, and incomplete results.</p>
+  <p>I started with a Go command-line tool. As it accumulated features like color coding and editor integration, I stepped back and rebuilt it as a smaller skill with a Python script. The original branch shows what I cut and what the simpler version kept.</p>
+  <p><a href="https://github.com/ScottRadcliff/sift">View Sift on GitHub</a> &middot; <a href="{{ '/ai-agents-and-over-engineering.html' | relative_url }}">Why I simplified Sift</a></p>
+</section>
+
+<section class="post-preview" aria-labelledby="ai-agent-skills">
+  <h2 id="ai-agent-skills">AI Agent Skills</h2>
+  <p>A personal collection of agent skills written to support the software development lifecycle and shared publicly for others to use. Personal and business-specific information has been extracted so the skills can be reused independently.</p>
+  <ul>
+    <li><a href="https://github.com/ScottRadcliff/skills/tree/main/dev-server-setup">dev-server-setup</a> sets up a local Docker development environment for an application.</li>
+    <li><a href="https://github.com/ScottRadcliff/skills/tree/main/bug-diagnoser">bug-diagnoser</a> investigates software bugs and verifies likely causes before implementation.</li>
+  </ul>
+  <p><a href="https://github.com/ScottRadcliff/skills">View the skills on GitHub</a></p>
+</section>
+
+<section class="post-preview" aria-labelledby="bargain">
+  <h2 id="bargain">Bargain</h2>
+  <p>Bargain is an Elixir library for converting Markdown to HTML.</p>
+  <p>I started with a test for a single heading and expanded the parser one feature at a time. The article series follows those decisions from headings to links and blockquotes.</p>
+  <p><a href="https://github.com/ScottRadcliff/bargain">View Bargain on GitHub</a> &middot; <a href="{{ '/creating-an-elixir-library.html' | relative_url }}">Read the first article</a></p>
+</section>

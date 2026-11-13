@@ -11,6 +11,8 @@ I'm writing a markdown library called [Bargain](https://github.com/ScottRadcliff
 
 I started with generating headings. Specifically the # version. In true TDD style, the first passing examples were crazy simple.
 
+[See Bargain on the Projects page]({{ '/projects/' | relative_url }}#bargain).
+
 ```
   def generate(text) do
     case String.starts_with?(text, "#") do
