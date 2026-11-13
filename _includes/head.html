@@ -1,7 +1,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>{{ page.title }} | {{ site.title }}</title>
+<title>{{ page.title | escape }}{% if page.title %} | {% endif %}{{ site.title | escape }}</title>
+
+{% assign description = page.description %}
+{% if description == nil and page.layout == 'post' %}
+  {% assign description = page.excerpt %}
+{% endif %}
+{% assign description = description | strip_html | normalize_whitespace | strip | default: site.meta_description %}
+<meta name="description" content="{{ description | truncatewords: 28 | xml_escape }}">
+<link rel="canonical" href="{{ page.url | replace: '/index.html', '/' | absolute_url | xml_escape }}">
 
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
