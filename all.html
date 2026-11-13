@@ -6,6 +6,13 @@ permalink: /archive/
 
 <h1>All Posts</h1>
 
+<form class="archive-search" role="search" data-index="{{ '/archive/search.json' | relative_url }}" hidden>
+  <label for="archive-query">Search articles</label>
+  <input id="archive-query" type="search" placeholder="e.g. git stash" autocomplete="off">
+</form>
+<p id="archive-search-status" class="meta" role="status"></p>
+<ol id="archive-search-results" class="archive-list" role="list" hidden></ol>
+
 <ol class="archive-list" id="all-posts">
   {% for post in site.posts %}
     <li>
@@ -13,3 +20,5 @@ permalink: /archive/
     </li>
   {% endfor %}
 </ol>
+
+<script src="{{ '/assets/js/archive-search.js' | relative_url }}" defer></script>

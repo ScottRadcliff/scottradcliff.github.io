@@ -167,6 +167,32 @@ pre {
   }
 }
 
+.archive-search {
+  label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+
+  input {
+    width: 100%;
+    padding: 0.55rem 0.75rem;
+    border: 1px solid $color-muted;
+    border-radius: 4px;
+    background: $color-bg;
+    color: $color-text;
+    font: inherit;
+  }
+}
+
+#archive-search-status:empty {
+  margin: 0;
+}
+
+#archive-search-results p {
+  margin: 0.25rem 0;
+}
+
 .copy-email {
   vertical-align: middle;
   padding: 0.5rem;
